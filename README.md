@@ -10,7 +10,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 2. Open `Foreign Ipsum.sketchplugin`
 
 ## Help me pay for some of my college!
-
+</br>
 <a href="https://cash.me/$3raxton" target="_blank">Via Cash.me (Preferred)</a>
-<b> OR </b>
+</br> <b> OR </b>
 <a href="https://www.paypal.me/BraxtonHuff" target="_blank">Via PayPal</a>
