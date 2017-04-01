@@ -13,3 +13,8 @@ Filler text that has nothing to do with anything in a multitude of languages
 <a href="https://cash.me/$3raxton" target="_blank">Via Cash.me (Preferred)</a>
 </br></br><b> OR </b></br></br>
 <a href="https://www.paypal.me/BraxtonHuff" target="_blank">Via PayPal</a>
+
+
+## Authors of the text produced
+
+# 
