@@ -1,3 +1,3 @@
 # Foreign Ipsum
 
-Filler text that has nothing to do with anything in a multitude of languages (¯\_(ツ)_/¯)
+Filler text that has nothing to do with anything in a multitude of languages 
