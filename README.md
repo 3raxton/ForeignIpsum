@@ -11,7 +11,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Sponsor me to buy a new iPhone
 
-[Via Cash.me (Preferred)](https://cash.me/$3raxton) 
+[Via Cash.me (Preferred)](https://cash.me/$3raxton){:target="_blank"}
 <b> OR </b>
-[Via Paypal](https://www.paypal.me/BraxtonHuff)
+[Via Paypal](https://www.paypal.me/BraxtonHuff){:target="_blank"}
 
