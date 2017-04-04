@@ -14,14 +14,20 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 (Add gif of how to do this here)
 
+
+## Via Sketchtoolbox
+
+### Install the plugin by searching for and pressing install within Sketch Toolbox 
+      ### Click the image below to install Sketch Toolbox
+[![Install Foreign Ipsum with Sketch Toolbox](http://sketchtoolbox.com/images/logo.png "Install Foreign Ipsum with Sketch Toolbox")](https://www.sketchtoolbox.com)
+
+
 ## Manually
 
 1. [Download ZIP file](github.com/3raxton/ForeignIpsum/archive/master.zip) and unzip
 2. Open `Foreign Ipsum.sketchplugin`
 
-## Via Sketchtoolbox
-### 1. Install the plugin by searching for and pressing install within Sketch Toolbox
-[![Install Foreign Ipsum with Sketch Toolbox](http://sketchtoolbox.com/images/logo.png "Install Foreign Ipsum with Sketch Toolbox")](https://www.sketchtoolbox.com)
+
 
 # Like the plugin? Help me pay for some of my college!
 [Via Cash.me](https://cash.me/$3raxton) (Preferred)
