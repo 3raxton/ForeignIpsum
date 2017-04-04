@@ -65,7 +65,7 @@ I bought new shoes today and they are very nice looking. If you are hot you have
 # Galacian 
 ## [Silvia](http://instagram.com/silvia_grana)
 ### What did Silvia write?
-Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás cun coitelo dourado. A miña nai come eses paxariños cando ninguén está a mirar, eu penso que é razoable seica o canibalismo é ilegal (penso eu). O meu irmán de acoxida ten o pelo vermello e os pantalóns rotos. O can ládralle ás catro da mañá para que esperte.
+Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás cun coitelo dourado. A miña nai come eses paxariños cando ninguén está a mirar, eu penso que é razoable seica o canibalismo é ilegal (penso eu). O meu irmán de acollida ten un burato nos seus pantalóns. O can ládralle ás catro da mañá para que esperte.
 ### Which translates to 
 The little birds on the trees look at the newspapers where people from New York eat apples with a golden knife. My mom eats those little birds when no one looks, I think it's reasonable although cannibalism it's illegal (I think). My host brother has red hair and his pants have a hole in them. The dog barks at him at 4 AM so he wakes up.
 # German
