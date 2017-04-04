@@ -2,7 +2,7 @@
 
 Filler text that has nothing to do with anything in a multitude of languages 
 
-![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
+[![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
 
 # Installing Foreign Ipsum
 
@@ -13,7 +13,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Via Sketchpacks
 
-### Just click the button below or add from the Sketchpacks App
+### Just click the button below or from the Sketchpacks App
 
 [![Install Foreign Ipsum with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install Foreign Ipsum with Sketchpacks")](https://sketchpacks.com/3raxton/ForeignIpsum/install)
 
@@ -21,11 +21,10 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Via Sketchtoolbox
 1. Install the plugin by searching for and pressing install within Sketch Toolbox
-3. 
-4. Profit ;)
+[![Install Sketch Toolbox](https://www.dropbox.com/s/pz03g9d2f7k68q7/SketchToolbox.png?dl=0)](https://sketchtoolbox.com/)
 
 ## Help me pay for some of my college!
-[Via Cash.me](https://cash.me/$3raxton) (Preferred)
+[Via Cash.me]type ="_blank"(https://cash.me/$3raxton) (Preferred)
 </br></br><b> OR </b></br></br>
 [Via PayPal](https://www.paypal.me/BraxtonHuff)
 
