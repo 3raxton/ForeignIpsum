@@ -36,18 +36,44 @@ Filler text that has nothing to do with anything in a multitude of languages
 [Via PayPal](https://www.paypal.me/BraxtonHuff)
 
 
-# Authors & Supported Languages 
+# Writers & Supported Languages 
 
 # Danish
+## Johan
+### What did Johan write?
+Jeg spiser en banan med chokolade på. En isvaffel koster mange penge, men smager godt. Skibe transporterer vare frem og tilbage i havnen.
+### Which translates to 
+I am eating a banana with chocolate on it. An ice cream cone costs a lot of money but tastes good. Ships transport wares in and out of the harbor.
 # Dutch
+## Maijken
+### What did Maijken write?
+Aardbeien zijn lekker. Ik heb vandaag nieuwe schoenen gekocht en ze zijn heel mooi. Als je het heet hebt moet je in een zwembad springen. Ik ben gisteren van een ladder gevallen en het deed veel pijn. School is stom. Gras is groen.
+### Which translates to 
+Strawberries are good. I bought new shoes today and they are very nice (looking). If you are hot you have to jump in a pool. Yesterday I fell from a ladder and it hurt a lot. School is not fun. Grass is green.
 # English
 # French
+## Marie
+### What did Marie write?
+Je déteste faire du sport, cependant je vais à tout mes entraînements. J'en ai besoin parce que la vie Américaine m'a transformé (lol). Aujourd'hui c'était ma première compétition; je crois définitivement que le sport n'a pas été inventé pour moi...😂😂
+### Which translates to 
+I hate playing sports, however, I'm going to all my practices. I need to because the American life has changed me (lol). Today, it was my first meet; I definitely believe that sports weren't invented for me..😂😂
+<b> & </b>
+Je suis fatiguée et suis couchée sur le canapé. J'aime vraiment faire du vélo. Elle est une très jolie femme. L'océan est bleu et très grand. J'ai acheté des nouvelles chaussures aujourd'hui et elles sont vraiment jolies. Si tu as chaud tu dois sauter dans la piscine. Hier, je suis tombée d'une échelle et ca fait très mal. 
+### Which translates to 
+I am tired and am lying on the sofa. I really like to ride my bike. She is a beautiful woman. The ocean is blue and very big.
+I bought new shoes today and they are very nice looking. If you are hot you have to jump in a pool. yesterday i fell from a ladder and it hurt a lot.
+# Galacian 
+## [Silvia](http://instagram.com/silvia_grana)
+### What did Silvia write?
+Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás cun coitelo dourado. A miña nai come eses paxariños cando ninguén está a mirar, eu penso que é razoable seica o canibalismo é ilegal (penso eu). O meu irmán de acoxida ten o pelo vermello e os pantalóns rotos. O can ládralle ás catro da mañá para que esperte.
+### Which translates to 
+The little birds on the trees look at the newspapers where people from New York eat apples with a golden knife. My mom eats those little birds when no one looks, I think it's reasonable although cannibalism it's illegal (I think). My host brother has red hair and his pants have a hole in them. The dog barks at him at 4 AM so he wakes up.
 # German
-
 ## Johan
-
 ### What did Johan write?
-
+Ich bin müde und liege auf dem Sofa. Ich fahre sehr gerne Fahrrad. Sie ist eine schöne Frau. Der Ozean ist blau und sehr groß.
+### Which translates to 
+I am tired and am lying on the sofa. I really like to ride my bike. She is a beautiful woman. The ocean is blue and very big.
 # Italian
 ## [Alessandro](https://www.facebook.com/alessandro.saviantoni.9)
 ### What did Alessandro write?
@@ -55,9 +81,29 @@ Amo il gelato. Non importa quanto possa fare freddo, letteralmente nulla può fe
 ### Which translates to 
 I love ice cream. It doesn't matter how cold it is, literally nothing can stop me from eating it also during winter
 # Norwegian
-# Portuguese 
+### Sara
+Jeg elsker å spille fotball og håndball, men i Amerika vil jeg heller være med venner og spise. Nå er det bare noen måneder igjen før jeg reiser hjem til Norge å får se familie og venner igjen. Men jeg gleder meg mest til å se hunden min igjen.
+### Which translates to
+I love playing soccer and handball, but in America I would rather hangout with my friends and eat fast food. Now it's only a couple of months until I'm going home to Norway and I get to see my family and friends again. But I'm most excited to see my dog again.
+# Portuguese
+## Cami
+### What did Cami write?
+Eu gosto de escutar música enquanto me arrumo para sair. Eu não gosto de você. Eu gosto de você. Eu tenho que lavar meu cabelo. Essa garota que está cantando tem uma voz bonita. Eu queria poder cantar. Parece que todo mundo tem o mesmo sapato. Eu não quero te dar o meu número. Eu não gosto de você, eu gosto dela. Eu não sei se ela gosta de mim.
+### Which translates to 
+I like to listen to music while i'm getting ready to go out. I don't like you. I like you. I have to wash my hair. This girl that is singing has a beautiful voice. I wish I could sing. Everybody seems to have the same shoes. I don't want to give my number. I don't like you, I like her. I don't know if she likes me. I don't want to give my number. I don't like you, I like her. I don't know if she likes me.
 # Spanish
+## [Silvia](http://instagram.com/silvia_grana)
+### What did Silvia write?
+Solamente necesito tomar cereales con leche. El queso está bueno, y también lo están las galletas. Me encanta mojar mis nachos en chocolate. Las bufandas son útiles para mantenerte caliente, también tienen estilo. Solo necesito tirarme desde un avión con una bufanda para no coger un catarro. Mi perro es negro, mi rata es blanca. Mis padres quieren que tenga un hijo. El colegio es útil si te quieres morir.
+### Which translates to 
+I just need to eat cereal with milk. Cheese is good and so are cookies. I love to dip my nachos in chocolate. Scarves are useful to keep you warm, they are stylish too. I just need to jump off a plane with a scarf on so I don't get a cold. My dog is black, my rat is white. My parents want me to have a child. School is useful if you want to die.
 # Swedish
+## [Ilse](https://www.instagram.com/ilse.richardson/)
+### What did Ilse write?
+Blommor doftar gott. Flingor med mjölk är inte gott, flingor är bara gott med filmjölk. Hundar är mycket bättre än katter men bästa djuret av alla måste ändå vara valrossar. Rosor är röda violer är blå jag gillar himmelen med moln på. Go och glad kexchoklad. Svensk godis är det bästa som finns skulle kunna äta ihjäl mig på sura skallar. Nu vattnas min mun bara för att jag skrev det.
+### Which translates to 
+Flowers smell good. Cereal with milk is disgusting, cereal is only good with sour youghurt. Dogs are better than cats but the best animal of all has to be walruses. Roses are red vilots are blue I like skies with clouds on. Happy and nice kex chocolate. Swedish candy is the best thing in the world, I could die eating sour skulls. Now my mouth is watering just because I wrote that.
 
 # Want to add some words of your own to Foreign Ipsum?
-You can do so [here](https://goo.gl/forms/SeyKDbfPfglHMGfO2)!
+## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
+## Yes, you can add to a language that already has something written for it. 
