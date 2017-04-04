@@ -47,7 +47,5 @@ Filler text that has nothing to do with anything in a multitude of languages
 ### Where can I find Johan
 
 
-## Want to add some words of your own language to Foreign Ipsum?
-
-You can do so 
-<a href="https://goo.gl/forms/89yQwlTlONWvNwrB3" target="_blank">here</a> 
+# Want to add some words of your own language to Foreign Ipsum?
+You can do so [here](https://goo.gl/forms/89yQwlTlONWvNwrB3)
