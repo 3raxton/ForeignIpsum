@@ -13,7 +13,11 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Via Sketchpacks
 
+### Just click the button below or add from the Sketchpacks App
+
 [![Install Foreign Ipsum with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install Foreign Ipsum with Sketchpacks")](https://sketchpacks.com/3raxton/ForeignIpsum/install)
+
+(Add gif of how to do this here)
 
 ## Via Sketchtoolbox
 
@@ -28,6 +32,9 @@ Filler text that has nothing to do with anything in a multitude of languages
 ## German
 
 ### Johan
+
+#### What did Johan write?
+
 
 ## Want to add some words of your own language to Foreign Ipsum?
 
