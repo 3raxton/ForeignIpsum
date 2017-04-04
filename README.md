@@ -18,7 +18,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 ## Via Sketchtoolbox
 
 ### Install the plugin by searching for and pressing install within Sketch Toolbox 
-      ### Click the image below to install Sketch Toolbox
+#### (Click the image below to install Sketch Toolbox)
 [![Install Foreign Ipsum with Sketch Toolbox](http://sketchtoolbox.com/images/logo.png "Install Foreign Ipsum with Sketch Toolbox")](https://www.sketchtoolbox.com)
 
 
