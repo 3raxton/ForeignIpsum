@@ -17,4 +17,13 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Authors of the text produced
 
-# 
+# Johan German
+
+### Johan
+
+## Johan German
+
+## Want to add some words of your own language to it?
+
+You can do so 
+<a href="https://goo.gl/forms/89yQwlTlONWvNwrB3" target="_blank">here</a>: 
