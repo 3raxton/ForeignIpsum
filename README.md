@@ -86,7 +86,7 @@ Jeg elsker å spille fotball og håndball, men i Amerika vil jeg heller være me
 ### Which translates to
 I love playing soccer and handball, but in America I would rather hangout with my friends and eat fast food. Now it's only a couple of months until I'm going home to Norway and I get to see my family and friends again. But I'm most excited to see my dog again.
 # Portuguese
-## Cami
+## [Cami] (http://instagram.com/prrcml)
 ### What did Cami write?
 Eu gosto de escutar música enquanto me arrumo para sair. Eu não gosto de você. Eu gosto de você. Eu tenho que lavar meu cabelo. Essa garota que está cantando tem uma voz bonita. Eu queria poder cantar. Parece que todo mundo tem o mesmo sapato. Eu não quero te dar o meu número. Eu não gosto de você, eu gosto dela. Eu não sei se ela gosta de mim.
 ### Which translates to 
@@ -107,3 +107,8 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 # Want to add some words of your own to Foreign Ipsum?
 ## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
 ## Yes, you can add to a language that already has something written for it. 
+
+# Logo
+## Sketch Icon provided by [Dejan Markovic](http://dejan-markovic.com/)
+## Map provided by [Sajid Kalla](https://twitter.com/sajid_mhd)
+## Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
