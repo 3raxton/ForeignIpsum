@@ -20,7 +20,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 2. Open `Foreign Ipsum.sketchplugin`
 
 ## Via Sketchtoolbox
-1. Install the plugin by searching for and pressing install within Sketch Toolbox
+### 1. Install the plugin by searching for and pressing install within Sketch Toolbox
 [![Install Foreign Ipsum with Sketch Toolbox](http://sketchtoolbox.com/images/logo.png "Install Foreign Ipsum with Sketch Toolbox")](https://www.sketchtoolbox.com)
 
 # Like the plugin? Help me pay for some of my college!
