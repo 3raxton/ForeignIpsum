@@ -15,7 +15,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 <a href="https://www.paypal.me/BraxtonHuff" target="_blank">Via PayPal</a>
 
 
-## Authors of the text produced
+# Authors of the text produced & Languages
 
 # Johan German
 
@@ -23,7 +23,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Johan German
 
-## Want to add some words of your own language to it?
+## Want to add some words of your own language to Foreign Ipsum?
 
 You can do so 
-<a href="https://goo.gl/forms/89yQwlTlONWvNwrB3" target="_blank">here</a>: 
+<a href="https://goo.gl/forms/89yQwlTlONWvNwrB3" target="_blank">here</a> 
