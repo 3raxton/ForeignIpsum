@@ -17,11 +17,9 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 # Authors of the text produced & Languages
 
-# Johan German
+## German
 
 ### Johan
-
-## Johan German
 
 ## Want to add some words of your own language to Foreign Ipsum?
 
