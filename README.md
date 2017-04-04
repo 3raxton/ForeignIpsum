@@ -62,7 +62,7 @@ Je suis fatiguée et suis couchée sur le canapé. J'aime vraiment faire du vél
 ### Which translates to 
 I am tired and am lying on the sofa. I really like to ride my bike. She is a beautiful woman. The ocean is blue and very big.
 I bought new shoes today and they are very nice looking. If you are hot you have to jump in a pool. yesterday i fell from a ladder and it hurt a lot.
-# Galacian 
+# Galician 
 ## [Silvia](http://instagram.com/silvia_grana)
 ### What did Silvia write?
 Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás cun coitelo dourado. A miña nai come eses paxariños cando ninguén está a mirar, eu penso que é razoable seica o canibalismo é ilegal (penso eu). O meu irmán de acollida ten un burato nos seus pantalóns. O can ládralle ás catro da mañá para que esperte.
