@@ -57,7 +57,7 @@ Strawberries are good. I bought new shoes today and they are very nice (looking)
 Je déteste faire du sport, cependant je vais à tout mes entraînements. J'en ai besoin parce que la vie Américaine m'a transformé (lol). Aujourd'hui c'était ma première compétition; je crois définitivement que le sport n'a pas été inventé pour moi...😂😂
 ### Which translates to 
 I hate playing sports, however, I'm going to all my practices. I need to because the American life has changed me (lol). Today, it was my first meet; I definitely believe that sports weren't invented for me..😂😂
-<b> & </b>
+</br></br><b> & </b></br></br>
 Je suis fatiguée et suis couchée sur le canapé. J'aime vraiment faire du vélo. Elle est une très jolie femme. L'océan est bleu et très grand. J'ai acheté des nouvelles chaussures aujourd'hui et elles sont vraiment jolies. Si tu as chaud tu dois sauter dans la piscine. Hier, je suis tombée d'une échelle et ca fait très mal. 
 ### Which translates to 
 I am tired and am lying on the sofa. I really like to ride my bike. She is a beautiful woman. The ocean is blue and very big.
