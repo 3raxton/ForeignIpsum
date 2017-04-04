@@ -21,10 +21,10 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Via Sketchtoolbox
 1. Install the plugin by searching for and pressing install within Sketch Toolbox
-[![Install Sketch Toolbox](https://www.dropbox.com/s/pz03g9d2f7k68q7/SketchToolbox.png?dl=0)](https://sketchtoolbox.com/)
+[![Install Sketch Toolbox]](https://sketchtoolbox.com/)
 
 ## Help me pay for some of my college!
-[Via Cash.me]type ="_blank"(https://cash.me/$3raxton) (Preferred)
+[Via Cash.me](https://cash.me/$3raxton) (Preferred)
 </br></br><b> OR </b></br></br>
 [Via PayPal](https://www.paypal.me/BraxtonHuff)
 
