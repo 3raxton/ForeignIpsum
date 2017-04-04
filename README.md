@@ -81,7 +81,7 @@ Amo il gelato. Non importa quanto possa fare freddo, letteralmente nulla può fe
 ### Which translates to 
 I love ice cream. It doesn't matter how cold it is, literally nothing can stop me from eating it also during winter
 # Norwegian
-### Sara
+## Sara
 Jeg elsker å spille fotball og håndball, men i Amerika vil jeg heller være med venner og spise. Nå er det bare noen måneder igjen før jeg reiser hjem til Norge å får se familie og venner igjen. Men jeg gleder meg mest til å se hunden min igjen.
 ### Which translates to
 I love playing soccer and handball, but in America I would rather hangout with my friends and eat fast food. Now it's only a couple of months until I'm going home to Norway and I get to see my family and friends again. But I'm most excited to see my dog again.
