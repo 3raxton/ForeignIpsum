@@ -21,7 +21,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ## Via Sketchtoolbox
 1. Install the plugin by searching for and pressing install within Sketch Toolbox
-[![Install Sketch Toolbox](http://sketchtoolbox.com/images/logo.png)](https://www.sketchtoolbox.com) 
+(http://sketchtoolbox.com/images/logo.png "Install Foreign Ipsum with Sketch Toolbox")](https://www.sketchtoolbox.com)
 
 # Like the plugin? Help me pay for some of my college!
 [Via Cash.me](https://cash.me/$3raxton) (Preferred)
