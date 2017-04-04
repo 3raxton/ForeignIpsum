@@ -20,11 +20,14 @@ Filler text that has nothing to do with anything in a multitude of languages
 (Add gif of how to do this here)
 
 ## Via Sketchtoolbox
+1. Install the plugin by searching for and pressing install within Sketch Toolbox
+3. 
+4. Profit ;)
 
 ## Help me pay for some of my college!
-<a href="https://cash.me/$3raxton" target="_blank">Via Cash.me (Preferred)</a>
+[Via Cash.me](https://cash.me/$3raxton) (Preferred)
 </br></br><b> OR </b></br></br>
-<a href="https://www.paypal.me/BraxtonHuff" target="_blank">Via PayPal</a>
+[Via PayPal](https://www.paypal.me/BraxtonHuff)
 
 
 # Authors of the text produced & Languages
