@@ -60,4 +60,4 @@ I love ice cream. It doesn't matter how cold it is, literally nothing can stop m
 # Swedish
 
 # Want to add some words of your own to Foreign Ipsum?
-You can do so [here](https://goo.gl/forms/89yQwlTlONWvNwrB3)!
+You can do so [here](https://goo.gl/forms/SeyKDbfPfglHMGfO2)!
