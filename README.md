@@ -15,7 +15,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 (Add gif of how to do this here)
 
 
-## Via Sketchtoolbox
+## Via Sketch Toolbox
 
 ### Install the plugin by searching for and pressing install within Sketch Toolbox 
 #### (Click the image below to install Sketch Toolbox)
@@ -38,6 +38,10 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 # Authors of the text produced & Languages
 
+# Danish
+# Dutch
+# English
+# French
 # German
 
 ## Johan
@@ -46,6 +50,11 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ### Where can I find Johan
 
+# Italian
+# Norwegian
+# Portuguese 
+# Spanish
+# Swedish
 
 # Want to add some words of your own to Foreign Ipsum?
 You can do so [here](https://goo.gl/forms/89yQwlTlONWvNwrB3)!
