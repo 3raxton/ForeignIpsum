@@ -49,11 +49,11 @@ Filler text that has nothing to do with anything in a multitude of languages
 ### What did Johan write?
 
 # Italian
-# [Alessandro](https://www.facebook.com/alessandro.saviantoni.9)
-## What did Alessandro write?
-### Amo il gelato. Non importa quanto possa fare freddo, letteralmente nulla può fermarmi dal mangiarlo anche d'inverno 
-## Which translates to 
-### I love ice cream. It doesn't matter how cold it is, literally nothing can stop me from eating it also during winter
+## [Alessandro](https://www.facebook.com/alessandro.saviantoni.9)
+### What did Alessandro write?
+Amo il gelato. Non importa quanto possa fare freddo, letteralmente nulla può fermarmi dal mangiarlo anche d'inverno 
+### Which translates to 
+I love ice cream. It doesn't matter how cold it is, literally nothing can stop me from eating it also during winter
 # Norwegian
 # Portuguese 
 # Spanish
