@@ -5,7 +5,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 ![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
 
 # Why did you make this?
-#### My family is extended across the globe. A major inspiration to this are my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
+#### My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
 
 ![2016 Exchanges](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/2016%20Exchanges.jpg) 
 ![2017 Exchanges](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/2017%20Exchanges.jpg)
@@ -59,9 +59,9 @@ Strawberries are good. I bought new shoes today and they are very nice (looking)
 # English
 ## [Braxton](http://instagram.com/3raxton)
 ### What did Braxton write?
-How do we know that rain isn't tears falling from sad clouds? They could be but you've never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. I really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
+How do we know that rain isn't tears falling from sad clouds? They could be but you've never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. I really like days where it rains all day, it is super relaxing. Birds actually fly backward which means that planes do the same. You should listen to music instead of eating. It makes you feel better.
 ### Which translates to 
-How do we know that rain isn't tears falling from sad clouds? They could be but you've never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. I really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
+How do we know that rain isn't tears falling from sad clouds? They could be but you've never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. I really like days where it rains all day, it is super relaxing. Birds actually fly backward which means that planes do the same. You should listen to music instead of eating. It makes you feel better.
 # French
 ## [Marie](https://www.facebook.com/marie.chappuis.5)
 ### What did Marie write?
@@ -113,7 +113,7 @@ I just need to eat cereal with milk. Cheese is good and so are cookies. I love t
 ### What did Ilse write?
 Blommor doftar gott. Flingor med mjölk är inte gott, flingor är bara gott med filmjölk. Hundar är mycket bättre än katter men bästa djuret av alla måste ändå vara valrossar. Rosor är röda violer är blå jag gillar himmelen med moln på. Go och glad kexchoklad. Svensk godis är det bästa som finns skulle kunna äta ihjäl mig på sura skallar. Nu vattnas min mun bara för att jag skrev det.
 ### Which translates to 
-Flowers smell good. Cereal with milk is disgusting, cereal is only good with sour youghurt. Dogs are better than cats but the best animal of all has to be walruses. Roses are red vilots are blue I like skies with clouds on. Happy and nice kex chocolate. Swedish candy is the best thing in the world, I could die eating sour skulls. Now my mouth is watering just because I wrote that.
+Flowers smell good. Cereal with milk is disgusting, cereal is only good with sour youghurt. Dogs are better than cats but the best animal of all has to be walruses. Roses are red vilots are blue I like skies with clouds on. Happy and nice kexchoklad. Swedish candy is the best thing in the world, I could die eating sour skulls. Now my mouth is watering just because I wrote that.
 
 # Want to add some words of your own to Foreign Ipsum?
 ## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
