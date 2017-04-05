@@ -10,7 +10,6 @@ Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#insta
 ![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Galician.gif)
 </br></br>
 ![Danish](https://github.com/3raxton/ForeignIpsum/blob/master/Danish.gif)
-![Danish](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/toast.gif)
 
 # Why did you make this?
 #### My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
@@ -87,6 +86,12 @@ I bought new shoes today and they are very nice looking. If you are hot you have
 Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás cun coitelo dourado. A miña nai come eses paxariños cando ninguén está a mirar, eu penso que é razoable seica o canibalismo é ilegal (penso eu). O meu irmán de acollida ten un burato nos seus pantalóns. O can ládralle ás catro da mañá para que esperte.
 ### Which translates to 
 The little birds on the trees look at the newspapers where people from New York eat apples with a golden knife. My mom eats those little birds when no one looks, I think it's reasonable although cannibalism it's illegal (I think). My host brother has red hair and his pants have a hole in them. The dog barks at him at 4 AM so he wakes up.
+## Alexis
+### What did Alexis write?
+AYTOΣ O YΠOΛOΓIΣTHΣ EINAI AKPIBOΣ. H EΛENA ΔOYΛEYEI ΣE ENA TOYPIΣTIKO KENTPO. TO TPAΓOYΔI EINAI AΠO THN EΛΛAΔA. EXEIΣ  NEPO  ΣE ΠAPAKAΛΩ?
+KAΛHMEPA ΣAΣ,ΠOY EINAI H AΘHNA? 
+### Which translates to 
+This computer is expensive. Elène works in a tourist center. The music is originally greek. Do you have some water, please? Hello, where is Athens?
 # German
 ## [Johan](http://twitter.com/nohamjam)
 ### What did Johan write?
