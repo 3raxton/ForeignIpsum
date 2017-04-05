@@ -4,6 +4,12 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 ![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
 
+# Why did you make this?
+### My family is extended across the globe. I have been strongly influenced by travel regarding what I want to do. A major inspiration to this were my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
+
+![2016 Exchanges](https://instagram.fmci1-2.fna.fbcdn.net/t51.2885-15/e35/13248848_1321095811252030_678469810_n.jpg)
+![2017 Exchanges](https://instagram.fmci1-2.fna.fbcdn.net/t51.2885-15/e35/14677471_1302006829834141_3372157335815323648_n.jpg)
+![2017 Exchanges](https://scontent.fmci1-2.fna.fbcdn.net/v/t1.0-9/14720605_204613199971097_7529467631363753808_n.jpg?oh=3413ccdb0db3dcb808b03b929fbbf336&oe=59583B35)
 # Installing Foreign Ipsum
 
 ## Via Sketchpacks
@@ -51,6 +57,11 @@ Aardbeien zijn lekker. Ik heb vandaag nieuwe schoenen gekocht en ze zijn heel mo
 ### Which translates to 
 Strawberries are good. I bought new shoes today and they are very nice (looking). If you are hot you have to jump in a pool. Yesterday I fell from a ladder and it hurt a lot. School is not fun. Grass is green.
 # English
+## [Braxton](http://instagram.com/3raxton)
+### What did Braxton write?
+How do we know that rain aren’t tears falling from sad clouds? They could be but you have never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. My really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
+### Which translates to 
+How do we know that rain aren’t tears falling from sad clouds? They could be but you have never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. My really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
 # French
 ## Marie
 ### What did Marie write?
@@ -86,7 +97,7 @@ Jeg elsker å spille fotball og håndball, men i Amerika vil jeg heller være me
 ### Which translates to
 I love playing soccer and handball, but in America I would rather hangout with my friends and eat fast food. Now it's only a couple of months until I'm going home to Norway and I get to see my family and friends again. But I'm most excited to see my dog again.
 # Portuguese
-## [Cami] (http://instagram.com/prrcml)
+## [Cami](http://instagram.com/prrcml)
 ### What did Cami write?
 Eu gosto de escutar música enquanto me arrumo para sair. Eu não gosto de você. Eu gosto de você. Eu tenho que lavar meu cabelo. Essa garota que está cantando tem uma voz bonita. Eu queria poder cantar. Parece que todo mundo tem o mesmo sapato. Eu não quero te dar o meu número. Eu não gosto de você, eu gosto dela. Eu não sei se ela gosta de mim.
 ### Which translates to 
