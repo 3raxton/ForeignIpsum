@@ -122,7 +122,7 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 # Contact
 ## You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). These are the best ways to reach out to me.
 
-# Logo
+# Foreign Ipsum Icon
 ## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
 ## Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
 ## Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
