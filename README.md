@@ -45,7 +45,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 # Writers & Supported Languages 
 
 # Danish
-## Johan
+## [Johan](http://twitter.com/nohamjam)
 ### What did Johan write?
 Jeg spiser en banan med chokolade på. En isvaffel koster mange penge, men smager godt. Skibe transporterer vare frem og tilbage i havnen.
 ### Which translates to 
@@ -59,9 +59,9 @@ Strawberries are good. I bought new shoes today and they are very nice (looking)
 # English
 ## [Braxton](http://instagram.com/3raxton)
 ### What did Braxton write?
-How do we know that rain aren’t tears falling from sad clouds? They could be but you have never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. My really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
+How do we know that rain isn't tears falling from sad clouds? They could be but you've never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. I really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
 ### Which translates to 
-How do we know that rain aren’t tears falling from sad clouds? They could be but you have never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. My really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
+How do we know that rain isn't tears falling from sad clouds? They could be but you've never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. I really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
 # French
 ## [Marie](https://www.facebook.com/marie.chappuis.5)
 ### What did Marie write?
@@ -80,7 +80,7 @@ Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás 
 ### Which translates to 
 The little birds on the trees look at the newspapers where people from New York eat apples with a golden knife. My mom eats those little birds when no one looks, I think it's reasonable although cannibalism it's illegal (I think). My host brother has red hair and his pants have a hole in them. The dog barks at him at 4 AM so he wakes up.
 # German
-## Johan
+## [Johan](http://twitter.com/nohamjam)
 ### What did Johan write?
 Ich bin müde und liege auf dem Sofa. Ich fahre sehr gerne Fahrrad. Sie ist eine schöne Frau. Der Ozean ist blau und sehr groß.
 ### Which translates to 
@@ -120,6 +120,6 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 ## Yes, you can add to a language that already has something written for it. 
 
 # Logo
-## Sketch Icon provided by [Dejan Markovic](http://dejan-markovic.com/)
-## Map provided by [Sajid Kalla](https://twitter.com/sajid_mhd)
+## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
+## Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
 ## Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
