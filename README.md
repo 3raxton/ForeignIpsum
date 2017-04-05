@@ -119,6 +119,9 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 ## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
 ## Yes, you can add to a language that already has something written for it. 
 
+# Contact
+## You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). These are the best ways to reach out to me.
+
 # Logo
 ## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
 ## Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
