@@ -8,7 +8,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 ### My family is extended across the globe. I have been strongly influenced by travel regarding what I want to do. A major inspiration to this were my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
 
 ![2016 Exchanges](https://instagram.fmci1-2.fna.fbcdn.net/t51.2885-15/e35/13248848_1321095811252030_678469810_n.jpg)
-![2017 Exchanges](https://instagram.fmci1-2.fna.fbcdn.net/t51.2885-15/e35/14677471_1302006829834141_3372157335815323648_n.jpg)
+![2017 Exchanges](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/2017%20Exchanges.jpg)
 ![2017 Exchanges](https://scontent.fmci1-2.fna.fbcdn.net/v/t1.0-9/14720605_204613199971097_7529467631363753808_n.jpg?oh=3413ccdb0db3dcb808b03b929fbbf336&oe=59583B35)
 # Installing Foreign Ipsum
 
@@ -63,7 +63,7 @@ How do we know that rain aren’t tears falling from sad clouds? They could be b
 ### Which translates to 
 How do we know that rain aren’t tears falling from sad clouds? They could be but you have never asked a cloud, have you? Birds fly but ostriches can’t and they are birds. I wonder if there is a reason behind that. My really like days where it rains all day, it is super relaxing. Birds actually fly backwards which means that planes do the same. You should listen to music instead of eating. It makes you feel much better.
 # French
-## Marie
+## [Marie](https://www.facebook.com/marie.chappuis.5)
 ### What did Marie write?
 Je déteste faire du sport, cependant je vais à tout mes entraînements. J'en ai besoin parce que la vie Américaine m'a transformé (lol). Aujourd'hui c'était ma première compétition; je crois définitivement que le sport n'a pas été inventé pour moi...😂😂
 ### Which translates to 
