@@ -10,6 +10,7 @@ Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#insta
 ![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Galician.gif)
 </br></br>
 ![Danish](https://github.com/3raxton/ForeignIpsum/blob/master/Danish.gif)
+![Danish](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/toast.gif)
 
 # Why did you make this?
 #### My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
