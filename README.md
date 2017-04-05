@@ -1,6 +1,7 @@
 # Foreign Ipsum
 
-Filler text that has nothing to do with anything in a multitude of languages 
+Filler text that has nothing to do with anything in a multitude of languages. 
+</br>
 Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#installing-foreign-ipsum) to go straight to installing
 
 ![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
