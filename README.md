@@ -6,6 +6,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 
 # Example Gifs 
 ![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Galician.gif)
+</br></br>
 ![Danish](https://github.com/3raxton/ForeignIpsum/blob/master/Danish.gif)
 
 # Why did you make this?
