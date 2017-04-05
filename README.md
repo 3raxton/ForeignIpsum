@@ -91,6 +91,11 @@ I am tired and am lying on the sofa. I really like to ride my bike. She is a bea
 Amo il gelato. Non importa quanto possa fare freddo, letteralmente nulla può fermarmi dal mangiarlo anche d'inverno 
 ### Which translates to 
 I love ice cream. It doesn't matter how cold it is, literally nothing can stop me from eating it also during winter
+## [Sara](https://www.instagram.com/sara_derottia/)
+### What did Sara write?
+Mi piace nuotare. Nessuno dovrebbe mettere il formaggio sul pesce perché è disgustoso. Mi piace l'estate. Odio la pioggia. La pizza italiana è la migliore e tutti dovrebbero provarla. Adoro il gelato. Ascoltare la musica è la cosa migliore per rilassarsi.
+### Which translates to 
+I like swimming. No one should put cheese on fish because it's disgusting. I love summer. I hate the rain. The Italian pizza is the best and everyone should try it. I love ice cream. Listen to music is the best thing to relax.
 # Norwegian
 ## [Sara](https://www.instagram.com/sarakvernberg/)
 Jeg elsker å spille fotball og håndball, men i Amerika vil jeg heller være med venner og spise. Nå er det bare noen måneder igjen før jeg reiser hjem til Norge å får se familie og venner igjen. Men jeg gleder meg mest til å se hunden min igjen.
