@@ -5,7 +5,7 @@ Filler text that has nothing to do with anything in a multitude of languages
 ![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
 
 # Why did you make this?
-### My family is extended across the globe. I have been strongly influenced by travel regarding what I want to do. A major inspiration to this were my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
+#### My family is extended across the globe. I have been strongly influenced by travel regarding what I want to do. A major inspiration to this were my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
 
 ![2016 Exchanges](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/2016%20Exchanges.jpg)
 ![2017 Exchanges](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/2017%20Exchanges.jpg)
