@@ -49,13 +49,14 @@ My family is extended across the globe. A major inspiration to this is my friend
 
 # Want to add some words of your own to Foreign Ipsum?
 
-You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)! </br></br> Yes, you can add to a language that already has something written for it. 
+You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
+* Yes, you can add to a language that already has something written for it. 
 
 # Bugs or Suggestions
 
 Is the plugin misbehaving? File an issue. Have a suggestion? File an issue. You can file an issue for whatever you want. Please include the version of the plugin you are using if you think it could be relevant (it usually is). 
 
-Don't want to file an issue? Send me an [email](mailto:hello@braxtonhuff.com) and I will get back to you as soon as possible. 
+* Don't want to file an issue? Send me an [email](mailto:hello@braxtonhuff.com) and I will get back to you as soon as possible. 
 
 # Comments, Contact or Questions
 
