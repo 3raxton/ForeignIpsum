@@ -52,15 +52,15 @@ Click [here](https://github.com/3raxton/ForeignIpsum#writers--supported-language
 
 
 # Want to add some words of your own to Foreign Ipsum?
-## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)! Yes, you can add to a language that already has something written for it. 
-
-# Bugs / Comments / Contact / Questions / Suggestions 
+## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)! </br> Yes, you can add to a language that already has something written for it. 
+</br></br>
+# Bugs, Comments, Contact, Questions, Suggestions 
 
 Is the plugin misbehaving? File an issue. Have a suggestion? File an issue. You can file an issue for whatever you want. Please include the version of the plugin you are using if you think it could be relevant (it usually is). 
 
-Don't want to file an issue? Send me an [email](mailto:hello@braxtonhuff.com)
+Don't want to file an issue? Send me an [email](mailto:hello@braxtonhuff.com) and I will get back to you as soon as possible. 
 
-## You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). These are the best ways to reach out to me.
+## You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). </br> These are the best ways to reach out to me.
 
 
 # Writers & Supported Languages 
