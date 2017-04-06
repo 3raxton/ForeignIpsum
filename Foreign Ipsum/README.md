@@ -4,7 +4,7 @@ Filler text that has nothing to do with anything in a multitude of languages.
 </br></br>
 Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#installing-foreign-ipsum) to go straight to installing
 
-![Foreign Ipsum Icon](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
+![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
 # Example Gifs 
 ![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Galician.gif)
