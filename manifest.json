@@ -1,109 +1,38 @@
 {
-  "name": "Foreign Ipsum",    
-  "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages",
-  "short-description": "Fill your mockups with different languages",
-  "author": "Braxton Huff",
-  "authorEmail": "braxton@braxtonhuff.com",
-  "url": "http://braxtonhuff.com",
-  "homepage": "http://github.com/3raxton/ForeignIpsum",
-  "version": "1.0.0",
-  "identifier": "com.braxtonhuff.ForeignIpsum",
-  "compatibleVersion": "3.4.0",
-  "bundleVersion": 1,
+  "author": [{
+    "name": "Foreign Ipsum",
+    "short-description": "Fill your mockups with text from different languages",
+    "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages",
+    "version" : "1.0.0",
+    "sketch-version": 3.4.0,
+    "authorEmail" : "braxton@braxtonhuff.com",
+    "author" : "Braxton Huff",
+    "url": "http://braxtonhuff.com",
+    "twitter": "http://twitter.com/3raxton"
+  }],
 
-    "commands": [
-        {
-          "name": "Danish",
-          "identifier": "danish",
-          "script": "Danish.js",
-          "handler": "onRun",
-          "shortcut": "command shift d"
+    "github": [{
+      "homepage": "https://github.com/3raxton/ForeignIpsum/",
+
+      "repository": {
+      "type": "git",
+      "url": "https://github.com/3raxton/ForeignIpsum/"
     },
-        {
-          "name": "Dutch",
-          "identifier": "dutch",
-          "script": "Dutch.js",
-          "handler": "onRun",
-          "shortcut": "ctrl shift d"
+  }],
+
+    "license": {
+      "type": "MIT",
+      "url": "https://github.com/3raxton/ForeignIpsum/blob/master/License.md"
     },
-        {
-            "name": "English",
-            "identifier": "english",
-            "script": "English.js",
-            "handler": "onRun",
-            "shortcut": "alt command shift e"
-    },
-        {
-            "name": "French",
-            "identifier": "french",
-            "script": "French.js",
-            "handler": "onRun",
-            "shortcut": "command shift f"
-    },
-        {
-            "name": "Galician",
-            "identifier": "galician",
-            "script": "Galician.js",
-            "handler": "onRun",
-            "shortcut": "ctrl command shift g"
-    },
-        {
-            "name": "German",
-            "identifier": "german",
-            "script": "German.js",
-            "handler": "onRun",
-            "shortcut": "alt command shift g"
-    },
-        {
-            "name": "Italian",
-            "identifier": "italian",
-            "script": "Italian.js",
-            "handler": "onRun",
-            "shortcut": "alt command shift i"
-    },
-        {
-            "name": "Norwegian",
-            "identifier": "norwegian",
-            "script": "Norwegian.js",
-            "handler": "onRun",
-            "shortcut": "alt command shift n"
-    },
-        {
-            "name": "Portuguese",
-            "identifier": "portuguese",
-            "script": "Portuguese.js",
-            "handler": "onRun",
-            "shortcut": "alt command shift p"
-    },
-        {
-            "name": "Spanish",
-            "identifier": "spanish",
-            "script": "Spanish.js",
-            "handler": "onRun",
-            "shortcut": "alt shift ctrl s"
-    },
-        {
-            "name": "Swedish",
-            "identifier": "swedish",
-            "script": "Swedish.js",
-            "handler": "onRun",
-            "shortcut": "alt command ctrl shift s"
-    },
-    ],
-    "menu": {
-        "title": "Foreign Ipsum",
-        "items": [
-            "danish",
-            "dutch",
-            "english",
-            "french",
-            "galician",
-            "german",
-            "italian",
-            "norwegian",
-            "portuguese",
-            "spanish",
-            "swedish"
-        ]
-    }
-    }
+    "social": [{
+      "twitter": "http://twitter.com/3raxton",
+      "github": "http://github.com/3raxton",
+      "medium": "https://medium.com/@3raxton",
+      "dribbble": "http://dribbble.com/3raxton",
+      "cash.me": "https://cash.me/3raxton/",
+      "paypal": "https://www.paypal.me/BraxtonHuff",
+    }],
+
+  "categories": [
+    "foreign", "ipsum", "foreign ipsum", "languages", "bilingual", "multilingual", "fill", "filler", "content", "data", "generator", "text", "dummy","lorem ipsum","lorem","ipsum","3raxton","Braxton","braxton huff", "mockup", "populator", "plugin"],
+}
