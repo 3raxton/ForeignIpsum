@@ -1,14 +1,16 @@
 {
   "author": [{
-    "name": "Foreign Ipsum",
-    "short-description": "Fill your mockups with text from different languages",
-    "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages",
-    "version" : "1.0.0",
-    "sketch-version": 3.4,
     "authorEmail" : "braxton@braxtonhuff.com",
     "author" : "Braxton Huff",
     "url": "http://braxtonhuff.com",
-    "twitter": "http://twitter.com/3raxton"
+  }],
+
+  "generic info": [{
+    "name": "Foreign Ipsum",
+    "short-description": "Fill your mockups with different languages",
+    "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages.",
+    "version" : "1.0.0",
+    "sketch-version": 3.4,
   }],
 
     "github": [{
@@ -25,7 +27,6 @@
       "url": "https://github.com/3raxton/ForeignIpsum/blob/master/License.md"
     },
     "social": [{
-      "twitter": "http://twitter.com/3raxton",
       "github": "http://github.com/3raxton",
       "medium": "https://medium.com/@3raxton",
       "dribbble": "http://dribbble.com/3raxton",
@@ -36,3 +37,4 @@
   "categories": [
     "foreign", "ipsum", "foreign ipsum", "languages", "bilingual", "multilingual", "fill", "filler", "content", "data", "generator", "text", "dummy","lorem ipsum","lorem","ipsum","3raxton","Braxton","braxton huff", "mockup", "populator", "plugin"],
 }
+
