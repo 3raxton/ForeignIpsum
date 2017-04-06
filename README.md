@@ -4,18 +4,18 @@ Filler text that has nothing to do with anything in a multitude of languages.
 </br></br>
 Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#installing-foreign-ipsum) to go straight to installing
 
-![Foreign Ipsum Logo 2.2](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Resources/Icon/Foreign%20Ipsum%20Icon.png)
+![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
 # Example Gifs 
-![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Resources/Gifs/Galician.gif)
+![Galician](https://lh3.googleusercontent.com/8dePrAML-XQWWuF90WOdJUsr2IpORcleDNvVyMO-wyNnDWrGH5g2DHHFQsYBCe1S6eTtOYMZ0XQMDEgG=s1600")
 </br></br>
-![Danish](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Resources/Gifs/Danish.gif)
+![Danish](https://lh3.googleusercontent.com/NVoIiIE7m65mcelb5HLb_9dr6j-63bthNSnSXSFhwgz6WrxfVA3bToEUUPKZ5g3pfDLlGBiKRfMnhmTN=s1600)
 
 # Why did you make this?
 #### My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
 
-![2016 Exchanges](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/2016%20Exchanges.jpg) 
-![2017 Exchanges](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/2017%20Exchanges.jpg)
+![2016 Exchanges](https://lh3.googleusercontent.com/bi6XHlzoCb4FJg5TeGckEBhhHVeQgGA_iW-rnYnAeOmCUrwEFA-8CZqW-uSX1auyfu_0atu1lCqoQ7xnmA=s1600) 
+![2017 Exchanges](https://lh3.googleusercontent.com/Fy1iV_EanPNDASj9BejkDsbCXPWHDhKz7dIw7SFNcPQhqu1pRInGnMAYFvcJndckrtkHE-4C9QESwMk0Xg=s1600)
 
 # Installing Foreign Ipsum
 
@@ -58,7 +58,7 @@ Jeg spiser en banan med chokolade på. En isvaffel koster mange penge, men smage
 ### Which translates to 
 I am eating a banana with chocolate on it. An ice cream cone costs a lot of money but tastes good. Ships transport wares in and out of the harbor.
 # Dutch
-## [Maijken](instagram.com/maijken_)
+## [Maijken](http://instagram.com/maijken_)
 ### What did Maijken write?
 Aardbeien zijn lekker. Ik heb vandaag nieuwe schoenen gekocht en ze zijn heel mooi. Als je het heet hebt moet je in een zwembad springen. Ik ben gisteren van een ladder gevallen en het deed veel pijn. School is stom. Gras is groen.
 ### Which translates to 
@@ -86,6 +86,12 @@ I bought new shoes today and they are very nice looking. If you are hot you have
 Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás cun coitelo dourado. A miña nai come eses paxariños cando ninguén está a mirar, eu penso que é razoable seica o canibalismo é ilegal (penso eu). O meu irmán de acollida ten un burato nos seus pantalóns. O can ládralle ás catro da mañá para que esperte.
 ### Which translates to 
 The little birds on the trees look at the newspapers where people from New York eat apples with a golden knife. My mom eats those little birds when no one looks, I think it's reasonable although cannibalism it's illegal (I think). My host brother has red hair and his pants have a hole in them. The dog barks at him at 4 AM so he wakes up.
+## Alexis
+### What did Alexis write?
+AYTOΣ O YΠOΛOΓIΣTHΣ EINAI AKPIBOΣ. H EΛENA ΔOYΛEYEI ΣE ENA TOYPIΣTIKO KENTPO. TO TPAΓOYΔI EINAI AΠO THN EΛΛAΔA. EXEIΣ  NEPO  ΣE ΠAPAKAΛΩ?
+KAΛHMEPA ΣAΣ,ΠOY EINAI H AΘHNA? 
+### Which translates to 
+This computer is expensive. Elène works in a tourist center. The music is originally greek. Do you have some water, please? Hello, where is Athens?
 # German
 ## [Johan](http://twitter.com/nohamjam)
 ### What did Johan write?
