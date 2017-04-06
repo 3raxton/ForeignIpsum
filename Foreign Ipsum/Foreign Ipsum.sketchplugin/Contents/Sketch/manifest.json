@@ -86,7 +86,7 @@
             "handler": "onRun",
             "shortcut": "alt command ctrl shift s"
     },
-    ],
+    ]
     "menu": {
         "title": "Foreign Ipsum",
         "items": [
