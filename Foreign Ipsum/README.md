@@ -7,15 +7,15 @@ Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#insta
 ![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
 # Example Gifs 
-![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Galician.gif)
+![Galician](https://lh3.googleusercontent.com/8dePrAML-XQWWuF90WOdJUsr2IpORcleDNvVyMO-wyNnDWrGH5g2DHHFQsYBCe1S6eTtOYMZ0XQMDEgG=s1600"); height: 491.786px)
 </br></br>
-![Danish](https://github.com/3raxton/ForeignIpsum/blob/master/Danish.gif)
+![Danish](https://lh3.googleusercontent.com/NVoIiIE7m65mcelb5HLb_9dr6j-63bthNSnSXSFhwgz6WrxfVA3bToEUUPKZ5g3pfDLlGBiKRfMnhmTN=s1600)
 
 # Why did you make this?
 #### My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
 
-![2016 Exchanges](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/2016%20Exchanges.jpg) 
-![2017 Exchanges](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/2017%20Exchanges.jpg)
+![2016 Exchanges](https://lh3.googleusercontent.com/bi6XHlzoCb4FJg5TeGckEBhhHVeQgGA_iW-rnYnAeOmCUrwEFA-8CZqW-uSX1auyfu_0atu1lCqoQ7xnmA=s1600) 
+![2017 Exchanges](https://lh3.googleusercontent.com/Fy1iV_EanPNDASj9BejkDsbCXPWHDhKz7dIw7SFNcPQhqu1pRInGnMAYFvcJndckrtkHE-4C9QESwMk0Xg=s1600)
 
 # Installing Foreign Ipsum
 
