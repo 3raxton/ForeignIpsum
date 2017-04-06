@@ -8,13 +8,9 @@ Click [here](https://github.com/3raxton/ForeignIpsum#writers--supported-language
 </br></br>
 ![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
-# Example Gifs 
-![Galician](https://lh3.googleusercontent.com/8dePrAML-XQWWuF90WOdJUsr2IpORcleDNvVyMO-wyNnDWrGH5g2DHHFQsYBCe1S6eTtOYMZ0XQMDEgG=s1600)
-</br></br>
-![Danish](https://lh3.googleusercontent.com/NVoIiIE7m65mcelb5HLb_9dr6j-63bthNSnSXSFhwgz6WrxfVA3bToEUUPKZ5g3pfDLlGBiKRfMnhmTN=s1600)
 
 # Why did you make this?
-#### My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
+My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
 
 ![2016 Exchanges](https://lh3.googleusercontent.com/bi6XHlzoCb4FJg5TeGckEBhhHVeQgGA_iW-rnYnAeOmCUrwEFA-8CZqW-uSX1auyfu_0atu1lCqoQ7xnmA=s1600) 
 ![2017 Exchanges](https://lh3.googleusercontent.com/Fy1iV_EanPNDASj9BejkDsbCXPWHDhKz7dIw7SFNcPQhqu1pRInGnMAYFvcJndckrtkHE-4C9QESwMk0Xg=s1600)
@@ -52,17 +48,18 @@ Click [here](https://github.com/3raxton/ForeignIpsum#writers--supported-language
 
 
 # Want to add some words of your own to Foreign Ipsum?
-## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)! </br></br> Yes, you can add to a language that already has something written for it. 
-</br></br>
+
+You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)! </br></br> Yes, you can add to a language that already has something written for it. 
+
 # Bugs or Suggestions
 
 Is the plugin misbehaving? File an issue. Have a suggestion? File an issue. You can file an issue for whatever you want. Please include the version of the plugin you are using if you think it could be relevant (it usually is). 
 
 Don't want to file an issue? Send me an [email](mailto:hello@braxtonhuff.com) and I will get back to you as soon as possible. 
 
-# Comments, Contact or Questions,
+# Comments, Contact or Questions
 
-## You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). 
+You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). 
  * These are the best ways to reach out to me.
 
 
