@@ -2,8 +2,10 @@
 
 Filler text that has nothing to do with anything in a multitude of languages. 
 </br></br>
-Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#installing-foreign-ipsum) to go straight to installing
-
+Click [here](https://github.com/3raxton/ForeignIpsum#installing-foreign-ipsum) to go straight to Installing
+</br></br>
+Click [here](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) to go straight to Writers & Supported Languages
+</br></br>
 ![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
 # Example Gifs 
@@ -49,6 +51,17 @@ Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#insta
 [Via PayPal](https://www.paypal.me/BraxtonHuff)
 
 
+# Want to add some words of your own to Foreign Ipsum?
+## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
+## Yes, you can add to a language that already has something written for it. 
+
+# Bugs / Contact / Comments / Questions / Suggestions 
+
+Is the plugin misbehaving? File an issue. Have a suggestion? File an issue. You can pretty much file an issue for whatever you want. Please include the version of the plugin you are using if you think it could be relevant (it usually is). 
+
+## You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). These are the best ways to reach out to me.
+
+
 # Writers & Supported Languages 
 
 # Danish
@@ -86,12 +99,6 @@ I bought new shoes today and they are very nice looking. If you are hot you have
 Os paxariños das árbores fican os xornais onde xente de Nova Iork come mazás cun coitelo dourado. A miña nai come eses paxariños cando ninguén está a mirar, eu penso que é razoable seica o canibalismo é ilegal (penso eu). O meu irmán de acollida ten un burato nos seus pantalóns. O can ládralle ás catro da mañá para que esperte.
 ### Which translates to 
 The little birds on the trees look at the newspapers where people from New York eat apples with a golden knife. My mom eats those little birds when no one looks, I think it's reasonable although cannibalism it's illegal (I think). My host brother has red hair and his pants have a hole in them. The dog barks at him at 4 AM so he wakes up.
-## Alexis
-### What did Alexis write?
-AYTOΣ O YΠOΛOΓIΣTHΣ EINAI AKPIBOΣ. H EΛENA ΔOYΛEYEI ΣE ENA TOYPIΣTIKO KENTPO. TO TPAΓOYΔI EINAI AΠO THN EΛΛAΔA. EXEIΣ  NEPO  ΣE ΠAPAKAΛΩ?
-KAΛHMEPA ΣAΣ,ΠOY EINAI H AΘHNA? 
-### Which translates to 
-This computer is expensive. Elène works in a tourist center. The music is originally greek. Do you have some water, please? Hello, where is Athens?
 # German
 ## [Johan](http://twitter.com/nohamjam)
 ### What did Johan write?
@@ -132,18 +139,6 @@ I just need to eat cereal with milk. Cheese is good and so are cookies. I love t
 Blommor doftar gott. Flingor med mjölk är inte gott, flingor är bara gott med filmjölk. Hundar är mycket bättre än katter men bästa djuret av alla måste ändå vara valrossar. Rosor är röda violer är blå jag gillar himmelen med moln på. Go och glad kexchoklad. Svensk godis är det bästa som finns skulle kunna äta ihjäl mig på sura skallar. Nu vattnas min mun bara för att jag skrev det.
 ### Which translates to 
 Flowers smell good. Cereal with milk is disgusting, cereal is only good with sour youghurt. Dogs are better than cats but the best animal of all has to be walruses. Roses are red vilots are blue I like skies with clouds on. Happy and nice kexchoklad. Swedish candy is the best thing in the world, I could die eating sour skulls. Now my mouth is watering just because I wrote that.
-
-# Want to add some words of your own to Foreign Ipsum?
-## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
-## Yes, you can add to a language that already has something written for it. 
-
-# Bugs / Contact / Comments / Questions / Suggestions 
-
-Is the plugin misbehaving? File an issue. Have a suggestion? File an issue. You can pretty much file an issue for whatever you want. Please include the version of the plugin you are using if you think it could be relevant (it usually is). 
-
-## You can find me via 
-* Twitter: [@3raxton](https://twitter.com/3raxton)
-[Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). These are the best ways to reach out to me.
 
 # Foreign Ipsum Icon
 ## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
