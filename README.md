@@ -23,7 +23,7 @@ Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#insta
 
 ### Just click the button below or from the Sketchpacks App
 
-[![Install Foreign Ipsum with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install Foreign Ipsum with Sketchpacks")](https://sketchpacks.com/3raxton/ForeignIpsum/install)
+[![Install Foreign Ipsum with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install Foreign Ipsum with Sketchpacks")](https://sketchpacks.com/@3raxton/ForeignIpsum/install)
 
 (Add gif of how to do this here)
 
