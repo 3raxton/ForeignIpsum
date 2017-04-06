@@ -137,8 +137,13 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 ## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
 ## Yes, you can add to a language that already has something written for it. 
 
-# Contact
-## You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). These are the best ways to reach out to me.
+# Bugs / Contact / Comments / Questions / Suggestions 
+
+Is the plugin misbehaving? File an issue. Have a suggestion? File an issue. You can pretty much file an issue for whatever you want. Please include the version of the plugin you are using if you think it could be relevant (it usually is). 
+
+## You can find me via 
+* Twitter: [@3raxton](https://twitter.com/3raxton)
+[Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). These are the best ways to reach out to me.
 
 # Foreign Ipsum Icon
 ## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
