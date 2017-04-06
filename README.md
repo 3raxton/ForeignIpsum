@@ -4,12 +4,12 @@ Filler text that has nothing to do with anything in a multitude of languages.
 </br></br>
 Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#installing-foreign-ipsum) to go straight to installing
 
-![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
+![Foreign Ipsum Logo 2.2](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Resources/Icon/Foreign%20Ipsum%20Icon.png)
 
 # Example Gifs 
-![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Galician.gif)
+![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Resources/Gifs/Galician.gif)
 </br></br>
-![Danish](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Danish.gif)
+![Danish](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Resources/Gifs/Danish.gif)
 
 # Why did you make this?
 #### My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
