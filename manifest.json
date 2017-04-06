@@ -1,11 +1,14 @@
 {
-  "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages.",
+  "name": "Foreign Ipsum",    
+  "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages",
+  "short-description": "Fill your mockups with different languages",
   "author": "Braxton Huff",
   "authorEmail": "braxton@braxtonhuff.com",
+  "url": "http://braxtonhuff.com",
   "homepage": "http://github.com/3raxton/ForeignIpsum",
   "version": "1.0.0",
   "identifier": "com.braxtonhuff.ForeignIpsum",
-  "compatibleVersion": "3.4",
+  "compatibleVersion": "3.4.0",
   "bundleVersion": 1,
 
     "commands": [
