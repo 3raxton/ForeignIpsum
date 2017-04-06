@@ -3,7 +3,7 @@
   "author": "Braxton Huff",
   "authorEmail": "braxton@braxtonhuff.com",
   "homepage": "http://github.com/3raxton/ForeignIpsum",
-  "version": "1.0",
+  "version": "1.0.0",
   "identifier": "com.braxtonhuff.ForeignIpsum",
   "compatibleVersion": "3.4",
   "bundleVersion": 1,
