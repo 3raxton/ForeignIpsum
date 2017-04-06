@@ -1,7 +1,40 @@
 {
+  "author": [{
+    "authorEmail" : "braxton@braxtonhuff.com",
+    "author" : "Braxton Huff",
+    "url": "http://braxtonhuff.com",
+  }],
+
+  "generic info": [{
     "name": "Foreign Ipsum",
-    "short-description": "Fill your mockups with text from different languages",
-    "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages",
+    "short-description": "Fill your mockups with different languages",
+    "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages.",
     "version" : "1.0.0",
     "sketch-version": 3.4,
+  }],
+
+    "github": [{
+      "homepage": "https://github.com/3raxton/ForeignIpsum/",
+
+      "repository": {
+      "type": "git",
+      "url": "https://github.com/3raxton/ForeignIpsum/"
+    },
+  }],
+
+    "license": {
+      "type": "MIT",
+      "url": "https://github.com/3raxton/ForeignIpsum/blob/master/License.md"
+    },
+    "social": [{
+      "github": "http://github.com/3raxton",
+      "medium": "https://medium.com/@3raxton",
+      "dribbble": "http://dribbble.com/3raxton",
+      "cash.me": "https://cash.me/3raxton/",
+      "paypal": "https://www.paypal.me/BraxtonHuff",
+    }],
+
+  "categories": [
+    "foreign", "ipsum", "foreign ipsum", "languages", "bilingual", "multilingual", "fill", "filler", "content", "data", "generator", "text", "dummy","lorem ipsum","lorem","ipsum","3raxton","Braxton","braxton huff", "mockup", "populator", "plugin"],
 }
+
