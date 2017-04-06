@@ -1,0 +1,106 @@
+{
+  "description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages.",
+  "author": "Braxton Huff",
+  "authorEmail": "braxton@braxtonhuff.com",
+  "homepage": "http://github.com/3raxton/ForeignIpsum",
+  "version": "1.0.0",
+  "identifier": "com.braxtonhuff.ForeignIpsum",
+  "compatibleVersion": "3.4",
+  "bundleVersion": 1,
+
+    "commands": [
+        {
+          "name": "Danish",
+          "identifier": "danish",
+          "script": "Danish.js",
+          "handler": "onRun",
+          "shortcut": "command shift d"
+    },
+        {
+          "name": "Dutch",
+          "identifier": "dutch",
+          "script": "Dutch.js",
+          "handler": "onRun",
+          "shortcut": "ctrl shift d"
+    },
+        {
+            "name": "English",
+            "identifier": "english",
+            "script": "English.js",
+            "handler": "onRun",
+            "shortcut": "alt command shift e"
+    },
+        {
+            "name": "French",
+            "identifier": "french",
+            "script": "French.js",
+            "handler": "onRun",
+            "shortcut": "command shift f"
+    },
+        {
+            "name": "Galician",
+            "identifier": "galician",
+            "script": "Galician.js",
+            "handler": "onRun",
+            "shortcut": "ctrl command shift g"
+    },
+        {
+            "name": "German",
+            "identifier": "german",
+            "script": "German.js",
+            "handler": "onRun",
+            "shortcut": "alt command shift g"
+    },
+        {
+            "name": "Italian",
+            "identifier": "italian",
+            "script": "Italian.js",
+            "handler": "onRun",
+            "shortcut": "alt command shift i"
+    },
+        {
+            "name": "Norwegian",
+            "identifier": "norwegian",
+            "script": "Norwegian.js",
+            "handler": "onRun",
+            "shortcut": "alt command shift n"
+    },
+        {
+            "name": "Portuguese",
+            "identifier": "portuguese",
+            "script": "Portuguese.js",
+            "handler": "onRun",
+            "shortcut": "alt command shift p"
+    },
+        {
+            "name": "Spanish",
+            "identifier": "spanish",
+            "script": "Spanish.js",
+            "handler": "onRun",
+            "shortcut": "alt shift ctrl s"
+    },
+        {
+            "name": "Swedish",
+            "identifier": "swedish",
+            "script": "Swedish.js",
+            "handler": "onRun",
+            "shortcut": "alt command ctrl shift s"
+    },
+    ],
+    "menu": {
+        "title": "Foreign Ipsum",
+        "items": [
+            "danish",
+            "dutch",
+            "english",
+            "french",
+            "galician",
+            "german",
+            "italian",
+            "norwegian",
+            "portuguese",
+            "spanish",
+            "swedish"
+        ]
+    }
+    }
