@@ -7,7 +7,7 @@ Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#insta
 ![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
 # Example Gifs 
-![Galician](https://lh3.googleusercontent.com/8dePrAML-XQWWuF90WOdJUsr2IpORcleDNvVyMO-wyNnDWrGH5g2DHHFQsYBCe1S6eTtOYMZ0XQMDEgG=1600)
+![Galician](https://lh3.googleusercontent.com/8dePrAML-XQWWuF90WOdJUsr2IpORcleDNvVyMO-wyNnDWrGH5g2DHHFQsYBCe1S6eTtOYMZ0XQMDEgG=s1600)
 </br></br>
 ![Danish](https://lh3.googleusercontent.com/NVoIiIE7m65mcelb5HLb_9dr6j-63bthNSnSXSFhwgz6WrxfVA3bToEUUPKZ5g3pfDLlGBiKRfMnhmTN=s1600)
 
