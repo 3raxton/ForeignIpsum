@@ -1,12 +1,11 @@
 {
 	"name": "Foreign Ipsum",
-	"short-description": "Fill your mockups with text from different languages",
-	"description": "Fill your mockups with text that has nothing to do with anything in a multitude of languages",
+	"description": "Fill your mockups with text from different languages",
 	"version": "1.0.0",
 	"sketch-version": 3.4,
-  "bundleVersion": 1,
+  	"bundleVersion": 1,
 	"author": "Braxton Huff",
-  "authorEmail": "braxton@braxtonhuff.com",
+ 	"authorEmail": "braxton@braxtonhuff.com",
 	"url": "http://braxtonhuff.com",
 	"twitter": "http://twitter.com/3raxton",
 
