@@ -4,7 +4,7 @@ Filler text that has nothing to do with anything in a multitude of languages.
 </br></br>
 Click [here](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#installing-foreign-ipsum) to go straight to installing
 
-![Foreign Ipsum Logo 2.2](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
+![Foreign Ipsum Icon](https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/Foreign%20Ipsum%20Logo.png)
 
 # Example Gifs 
 ![Galician](https://github.com/3raxton/ForeignIpsum/blob/master/Galician.gif)
@@ -58,7 +58,7 @@ Jeg spiser en banan med chokolade på. En isvaffel koster mange penge, men smage
 ### Which translates to 
 I am eating a banana with chocolate on it. An ice cream cone costs a lot of money but tastes good. Ships transport wares in and out of the harbor.
 # Dutch
-## [Maijken](instagram.com/maijken_)
+## [Maijken](http://instagram.com/maijken_)
 ### What did Maijken write?
 Aardbeien zijn lekker. Ik heb vandaag nieuwe schoenen gekocht en ze zijn heel mooi. Als je het heet hebt moet je in een zwembad springen. Ik ben gisteren van een ladder gevallen en het deed veel pijn. School is stom. Gras is groen.
 ### Which translates to 
