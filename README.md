@@ -143,9 +143,9 @@ Blommor doftar gott. Flingor med mjölk är inte gott, flingor är bara gott med
 Flowers smell good. Cereal with milk is disgusting, cereal is only good with sour youghurt. Dogs are better than cats but the best animal of all has to be walruses. Roses are red vilots are blue I like skies with clouds on. Happy and nice kexchoklad. Swedish candy is the best thing in the world, I could die eating sour skulls. Now my mouth is watering just because I wrote that.
 
 # Foreign Ipsum Icon
-## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
-## Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
-## Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
+* Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
+* Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
+* Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
 
 # License
-## The license used in this repo is the MIT License located [here](https://github.com/3raxton/ForeignIpsum/blob/master/License.md). Hopefully this code helps you out and treats you well! Cheers!
+The license used in this repo is the MIT License located [here](https://github.com/3raxton/ForeignIpsum/blob/master/License.md). Hopefully this code helps you out and treats you well! Cheers!
