@@ -52,8 +52,7 @@ Click [here](https://github.com/3raxton/ForeignIpsum#writers--supported-language
 
 
 # Want to add some words of your own to Foreign Ipsum?
-## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
-## Yes, you can add to a language that already has something written for it. 
+## You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)! </br> Yes, you can add to a language that already has something written for it. 
 
 # Bugs / Contact / Comments / Questions / Suggestions 
 
