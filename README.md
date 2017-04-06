@@ -11,13 +11,6 @@ Click [here](https://github.com/3raxton/ForeignIpsum#writers--supported-language
 # Example Gif 
 ![Danish](https://lh3.googleusercontent.com/NVoIiIE7m65mcelb5HLb_9dr6j-63bthNSnSXSFhwgz6WrxfVA3bToEUUPKZ5g3pfDLlGBiKRfMnhmTN=s1600)
 
-## Keyboard Shortcuts
-
-Select the layer of text you want to fill, then tell Foreign Ipsum to do it:
-
-1. **English** (<kbd>SHIFT</kbd>+<kbd>E</kbd>).
-
-
 
 # Why did you make this?
 My family is extended across the globe. A major inspiration to this is my friends from all over the world who I have met and plan to travel to see. I wanted to make a plugin which incorporated my friends and the languages that they speak so I sent them messages asking for random texts in the langauges they knew and this is what they came back with.
@@ -76,7 +69,7 @@ You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](htt
 
 # Writers & Supported Languages 
 
-# Danish
+# Danish <kbd>COMMAND</kbd>+<kbd>SHIFT</kbd><kbd>D</kbd>
 ## [Johan](http://twitter.com/nohamjam)
 ### What did Johan write?
 Jeg spiser en banan med chokolade på. En isvaffel koster mange penge, men smager godt. Skibe transporterer vare frem og tilbage i havnen.
