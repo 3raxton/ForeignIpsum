@@ -1,4 +1,4 @@
-# Foreign Ipsum 🗺
+# 🗺 Foreign Ipsum
 Filler text that has nothing to do with anything in a multitude of languages. 
 </br></br>
 Click [here](https://github.com/3raxton/ForeignIpsum#installing-foreign-ipsum) to go straight to Installing
