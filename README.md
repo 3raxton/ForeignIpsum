@@ -51,16 +51,13 @@ Install the plugin by searching for and pressing install within Sketch Toolbox
 You can do so [here](https://goo.gl/forms/2nFI9jc3zFzgVmsi1)!
 * Yes, you can add to a language that already has something written for it. 
 
-# Bugs or Suggestions
+# Contact
 
-Is the plugin misbehaving? File an issue. Have a suggestion? File an issue. You can file an issue for whatever you want. Please include the version of the plugin you are using if you think it could be relevant (it usually is). 
+If you have any questions, comments, become attacked by technical bugs, or have ideas to improve the plugin, you can find me on Twitter: [@3raxton](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/).
 
 * Don't want to file an issue? Send me an [email](mailto:hello@braxtonhuff.com) and I will get back to you as soon as possible. 
 
-# Comments, Contact or Questions
-
-You can find me via [Twitter](https://twitter.com/3raxton/) and [my website](http://www.braxtonhuff.com/). 
- * These are the best ways to reach out to me.
+* These are the best ways to reach out to me.
 
 
 # Writers & Supported Languages 
