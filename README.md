@@ -22,17 +22,14 @@ My family is extended across the globe. A major inspiration to this is my friend
 
 ## Via Sketchpacks
 
-### Just click the button below or from the Sketchpacks App
+Just click the button below or from the Sketchpacks App
 
 [![Install Foreign Ipsum with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install Foreign Ipsum with Sketchpacks")](https://sketchpacks.com/@3raxton/ForeignIpsum/install)
 
-(Add gif of how to do this here)
-
-
 ## Via Sketch Toolbox
 
-### Install the plugin by searching for and pressing install within Sketch Toolbox 
-#### (Click the image below to install Sketch Toolbox)
+Install the plugin by searching for and pressing install within Sketch Toolbox 
+(Click the image below to install Sketch Toolbox)
 
 [![Install Sketch Toolbox](http://sketchtoolbox.com/images/logo.png "Install Foreign Ipsum with Sketch Toolbox")](http://www.sketchtoolbox.com)
 
