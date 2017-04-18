@@ -146,6 +146,10 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 # Original Release
 * Released Thursday, April 6, 2017
 
+# Updates
+* 1.0.1 Released Monday, April 17, 2017
+  ⋅⋅* [Added more text to Dutch part of Plugin](https://github.com/3raxton/ForeignIpsum#emma)
+
 # Foreign Ipsum Icon
 * Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
 * Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
