@@ -69,6 +69,11 @@ Jeg spiser en banan med chokolade på. En isvaffel koster mange penge, men smage
 ### Which translates to 
 I am eating a banana with chocolate on it. An ice cream cone costs a lot of money but tastes good. Ships transport wares in and out of the harbor.
 # Dutch <kbd>CTRL</kbd> <kbd>SHIFT</kbd> <kbd>D</kbd>
+## [Emma](https://www.instagram.com/_emma__k/)
+### What did Emma write?
+Ik hou van eten, vooral lekker eten. Mijn favoriete eten is sushi. Ik hou ook van vakantie. Avary is heel erg verbrand vandaag. Ze is heel zielig want ze heeft heel veel pijn, Beterschap Ave! Mijn tuin is mooi en het leven ook! Doei!
+### Which translates to
+I love food, especially good food. My favorite food is sushi. I also love vacation. Avary got burned really bad today. I feel bad for her cause she is in a lot of pain, get well soon ave! My yard is pretty, so is my life! Bye!
 ## [Maijken](http://instagram.com/maijken_)
 ### What did Maijken write?
 Aardbeien zijn lekker. Ik heb vandaag nieuwe schoenen gekocht en ze zijn heel mooi. Als je het heet hebt moet je in een zwembad springen. Ik ben gisteren van een ladder gevallen en het deed veel pijn. School is stom. Gras is groen.
