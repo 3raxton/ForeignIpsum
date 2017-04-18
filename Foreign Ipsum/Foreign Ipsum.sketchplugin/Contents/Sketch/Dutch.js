@@ -1,4 +1,4 @@
-var Dutch = "Aardbeien zijn lekker. Ik heb vandaag nieuwe schoenen gekocht en ze zijn heel mooi. Als je het heet hebt moet je in een zwembad springen. Ik ben gisteren van een ladder gevallen en het deed veel pijn. School is stom en de mensen zijn daar dom. Gras is groen.";
+var Dutch = "Ik hou van eten, vooral lekker eten. Mijn favoriete eten is sushi. Ik hou ook van vakantie. Avary is heel erg verbrand vandaag. Ze is heel zielig want ze heeft heel veel pijn, Beterschap Ave! Mijn tuin is mooi en het leven ook! Doei! Aardbeien zijn lekker. Ik heb vandaag nieuwe schoenen gekocht en ze zijn heel mooi. Als je het heet hebt moet je in een zwembad springen. Ik ben gisteren van een ladder gevallen en het deed veel pijn. School is stom en de mensen zijn daar dom. Gras is groen.";
 
 // to load script with accurate language make different version of this script with the right language
 // example: within the .js file change the script option to the correct language script
