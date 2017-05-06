@@ -5,7 +5,8 @@ Click [here](https://github.com/3raxton/ForeignIpsum#installing-foreign-ipsum) t
 </br></br>
 Click [here](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) to go straight to Writers & Supported Languages
 </br></br>
-![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
+
+![Foreign Ipsum Image](https://lh3.googleusercontent.com/BhSDRR-aqfOgvDzAtVX1AoM1383KDq0eGCNkA7cu-vWvlg0CXqGG3J_a8Gk2VY_7lf4uA4xT4GSJVWA=s1600)
 
 # Example Gif 
 ![Danish](https://lh3.googleusercontent.com/NVoIiIE7m65mcelb5HLb_9dr6j-63bthNSnSXSFhwgz6WrxfVA3bToEUUPKZ5g3pfDLlGBiKRfMnhmTN=s1600)
@@ -151,6 +152,10 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
   * [Added more text to Dutch part of Plugin](https://github.com/3raxton/ForeignIpsum#emma)
 
 # Foreign Ipsum Icon
+
+![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
+
+## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
 * Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
 * Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
 * Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
