@@ -142,10 +142,10 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 
 ![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
-## Foreing Ipsum Image created by [Cristof from sketchapphub.com](http://sketchapphub.com)
 ## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
 ## Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
 ## Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
+## Foreign Ipsum Image created by [Cristof from sketchapphub.com](http://sketchapphub.com)
 
 # License
 ## The license used in this repo is the MIT License located [here](https://github.com/3raxton/ForeignIpsum/blob/master/License.md). Hopefully this code helps you out and treats you well! Cheers!
