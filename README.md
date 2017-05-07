@@ -155,7 +155,8 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 
 ![Foreign Ipsum Icon](https://lh3.googleusercontent.com/XIunyGzqctkwvuWS1wIgjUDNcsYDLt2PhkvMnnuYymaGX90yNFvvB_SMAPxkCycHCaDm7lBE5EREzKRrDA=s1600)
 
-## Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
+## Foreign Ipsum Icon and Images
+* Foreign Ipsum Image created by [Cristof of Sketchtalk.io](http://sketchtalk.io)
 * Sketch Icon created by [Dejan Markovic](http://dejan-markovic.com/)
 * Map created by [Sajid Kalla](https://twitter.com/sajid_mhd)
 * Globe holder created by [Braxton Huff](http://www.braxtonhuff.com/)
