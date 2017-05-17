@@ -108,6 +108,12 @@
 		"script": "Swedish.js",
 		"handler": "onRun",
 		"shortcut": "alt command ctrl shift s"
+	}, {
+		"name": "Turkish",
+		"identifier": "turkish",
+		"script": "Turkish.js",
+		"handler": "onRun",
+		"shortcut": "alt command shift t"
 	}],
 	"menu": {
 		"title": "🗺 Foreign Ipsum",
@@ -122,7 +128,8 @@
 			"norwegian",
 			"portuguese",
 			"spanish",
-			"swedish"
+			"swedish",
+			"turkish"
 		]
 	}
 }
