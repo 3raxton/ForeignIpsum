@@ -155,6 +155,8 @@ Shake my peas Let's drink by the glasses, drink every night. Pleasure is full of
 # Updates
 * 1.0.1 Released Monday, April 17, 2017
   * [Added more text to Dutch part of Plugin](https://github.com/3raxton/ForeignIpsum#emma)
+* 1.0.2 Released Wednesday, May 24, 2017
+  * [Added Turkish Support to Plugin](https://github.com/3raxton/ForeignIpsum/blob/master/README.md#turkish-alt-shift-command-t)
 
 # Foreign Ipsum Icon
 
