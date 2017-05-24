@@ -143,7 +143,12 @@ I just need to eat cereal with milk. Cheese is good and so are cookies. I love t
 Blommor doftar gott. Flingor med mjölk är inte gott, flingor är bara gott med filmjölk. Hundar är mycket bättre än katter men bästa djuret av alla måste ändå vara valrossar. Rosor är röda violer är blå jag gillar himmelen med moln på. Go och glad kexchoklad. Svensk godis är det bästa som finns skulle kunna äta ihjäl mig på sura skallar. Nu vattnas min mun bara för att jag skrev det.
 ### Which translates to 
 Flowers smell good. Cereal with milk is disgusting, cereal is only good with sour youghurt. Dogs are better than cats but the best animal of all has to be walruses. Roses are red vilots are blue I like skies with clouds on. Happy and nice kexchoklad. Swedish candy is the best thing in the world, I could die eating sour skulls. Now my mouth is watering just because I wrote that.
-
+# Turkish <kbd>ALT</kbd> <kbd>SHIFT</kbd> <kbd>COMMAND</kbd> <kbd>T</kbd>
+## [Ahmet Ozan](https://www.instagram.com/ahmetozantekin/)
+### What did Ozan write?
+Karabiberim vur kadehlere hadi içelim, içelim her gece. Zevki sefa doldu gönlüme. Hadi içelim acıların yerine. Buralara yaz günü kar yağıyor canım ölene kadar seni bekleyemem. Ona buna benzemem oyuna gelmem senin için ölmeye söz veremem.
+### Which translates to 
+Shake my peas Let's drink by the glasses, drink every night. Pleasure is full of pleasure. Let's drink instead of your aches. It's snowing on a summer's day I can not wait for you until I die. I can not promise to die for you if I do not come to the game like this to him. Great poet Serdar Ortaç.
 # Original Release
 * Released Thursday, April 6, 2017
 
