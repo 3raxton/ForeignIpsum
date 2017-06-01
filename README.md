@@ -1,4 +1,6 @@
 # 🗺 Foreign Ipsum
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.braxtonhuff.ForeignIpsum/version.svg)](https://api.sketchpacks.com/v1/plugins/com.braxtonhuff.ForeignIpsum/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.braxtonhuff.ForeignIpsum/compatibility.svg)](https://sketchpacks.com/3raxton/ForeignIpsum)
+
 Generate text for your mockups in multiple languages. 
 </br></br>
 Click [here](https://github.com/3raxton/ForeignIpsum#installing-foreign-ipsum) to go straight to Installing
