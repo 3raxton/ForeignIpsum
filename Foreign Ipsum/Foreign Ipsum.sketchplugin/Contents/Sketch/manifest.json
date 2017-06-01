@@ -9,6 +9,7 @@
 	"authorEmail": "braxton@braxtonhuff.com",
 	"url": "http://braxtonhuff.com",
 	"twitter": "http://twitter.com/3raxton",
+	"appcast": "https://api.sketchpacks.com/v1/plugins/com.braxtonhuff.ForeignIpsum/appcast",
 
 
 	"github": [{
