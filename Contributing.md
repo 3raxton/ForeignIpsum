@@ -37,6 +37,7 @@ var Dutch = "Ik hou van eten, vooral lekker eten. Mijn favoriete eten is sushi. 
 ```
   * Add support for the language added within the menu by copying the following code and placing it alphabetically in [this list](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch/manifest.json) below line 46
   * Please be sure to change the name of the language, the identifier and the script to the name of the language added
+  * <b> Please be sure </b> that they keyboard shortcut is not already in use and does not affect Sketch in any other way than producing the text for the textbox. 
 ```
 "name": "Danish",
 		"identifier": "danish",
