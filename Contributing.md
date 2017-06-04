@@ -49,8 +49,10 @@ var Dutch = "Ik hou van eten, vooral lekker eten. Mijn favoriete eten is sushi. 
 ```
 			"swedish",
 ```
-  * Add the text you added and its translation to the [README](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) along with your name and the link to a social profile if you prefer. 
-    * Please follow the same formatting as previous languages. 
+  * Add the text you added and its translation to the [README](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) along with your name and the link to a social profile if you prefer.
+    * Please follow the same formatting as previous languages.
+  * Please add the <kbd> keyboard tags </kbd> with the appropriate keyboard shortcut.
+    * Please follow the same formatting when listing keys as previous parts of the [README](https://github.com/3raxton/ForeignIpsum#writers--supported-languages)
   * Commit all of your changes when necessary and submit a pull request. I will review then merge or deny it. Cheers!
     * Please feel free to email me if you have questions or comments
     * hello@braxtonhuff.com
