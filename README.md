@@ -149,7 +149,7 @@ Flowers smell good. Cereal with milk is disgusting, cereal is only good with sou
 Karabiberim vur kadehlere hadi içelim, içelim her gece. Zevki sefa doldu gönlüme. Hadi içelim acıların yerine. Buralara yaz günü kar yağıyor canım ölene kadar seni bekleyemem. Ona buna benzemem oyuna gelmem senin için ölmeye söz veremem.
 ### Which translates to 
 Shake my peas Let's drink by the glasses, drink every night. Pleasure is full of pleasure. Let's drink instead of your aches. It's snowing on a summer's day I can not wait for you until I die. I can not promise to die for you if I do not come to the game like this to him. Great poet Serdar Ortaç.
-# Welsh <kbd>ALT</kbd> <kbd>SHIFT</kbd> <kbd>COMMAND</kbd> <kbd>T</kbd>
+# Welsh <kbd>ALT</kbd> <kbd>SHIFT</kbd> <kbd>COMMAND</kbd> <kbd>W</kbd>
 ### What was written in Welsh?
 Titrwm, tatrwm, Gwen lliw'r wy, Lliw'r meillion mwy rwy'n curo, Mae'r gwynt yn oer oddi ar y llyn. O flodyn y dyffryn deffro. Chwyth y tân, mi gynnith toc, Mae hi'n ddrycinog heno. Os ymhell o'm gwlad yr af. Pa beth a wnaf a'm geneth? Pa run a'i mynd a hi efo mi Ai gadael hi mewn hiraeth? Hedd fy nghalon o bob man. I fryniau a phantiau Pentraeth. Weithiau'n Llundain, weithiau yng Nghaer. Yn gweithio'n daer amdani, Weithiau yn gwasgu fy mun mewn cell. Ac weithiau ymhell oddi wrthi: Mi gofleidiwn flodau'r rhos Pe bawn i'n agos ati. Titrwm, tatrwm, Gwen lliw'r wy, Lliw'r meillion mwy rwy'n curo, Mae'r gwynt yn oer oddi ar y llyn. O flodyn y dyffryn deffro. Chwyth y tân, mi gynnith toc, Mae hi'n ddrycinog heno.
 ### Which translates to 
