@@ -10,7 +10,9 @@ Go to the [Sketch contents folder](https://github.com/3raxton/ForeignIpsum/tree/
   * Choose the file that has the language you are adding to and add to the end of the first line before the last quotation mark. 
   * Add the text you added and its translation to the [README](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) along with your name and the link to a social profile if you prefer. 
     * Please follow the same formatting as previous languages. 
-  * Commit your changes and submit a pull request. I will review then merge or deny it. Cheers!
+  * Commit your changes when necessary and submit a pull request. I will review then merge or deny it. Cheers!
+  * Please feel free to email me if you have questions or comments
+    * hello@braxtonhuff.com
 
 
 
@@ -33,6 +35,21 @@ var Dutch = "Ik hou van eten, vooral lekker eten. Mijn favoriete eten is sushi. 
   [layer setStringValue:Dutch];
             [layer setName:"Dutch"];
 ```
+  * Add support for the language added within the menu by copying the following code and placing it alphabetically in [this list](https://github.com/3raxton/ForeignIpsum/blob/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch/manifest.json) below line 46
+  * Please be sure to change the name of the language, the identifier and the script to the name of the language added
+```
+"name": "Danish",
+		"identifier": "danish",
+		"script": "Danish.js",
+		"handler": "onRun",
+		"shortcut": "command shift d"
+```
+  * Allow the language added to be displayed in the menu by copying the following code and placing it in [this list] alphabetically below line 127.
+```
+			"swedish"
+```
   * Add the text you added and its translation to the [README](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) along with your name and the link to a social profile if you prefer. 
     * Please follow the same formatting as previous languages. 
-  * Commit your changes and submit a pull request. I will review then merge or deny it. Cheers!
+  * Commit all of your changes when necessary and submit a pull request. I will review then merge or deny it. Cheers!
+    * Please feel free to email me if you have questions or comments
+    * hello@braxtonhuff.com
