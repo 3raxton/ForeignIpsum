@@ -2,7 +2,7 @@ If you would like to add your own language to Foreign Ipsum follow the instructi
 
 Go to the [Sketch contents folder](https://github.com/3raxton/ForeignIpsum/tree/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch) .
   * If the language you are adding already exists follow follow the steps below.
-  * If the language you are adding does not already exist [these]() steps
+  * If the language you are adding does not already exist [these](https://github.com/3raxton/ForeignIpsum/blob/master/Contributing.md#for-a-language-that-does-not-already-exist) steps
 
 
 # For a language that is already a part of Foreign Ipsum
@@ -11,8 +11,6 @@ Go to the [Sketch contents folder](https://github.com/3raxton/ForeignIpsum/tree/
   * Add the text you added and its translation to the [README](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) along with your name and the link to a social profile if you prefer. 
     * Please follow the same formatting as previous languages. 
   * Commit your changes and submit a pull request. I will review then merge or deny it. Cheers!
-
-
 
 
 
