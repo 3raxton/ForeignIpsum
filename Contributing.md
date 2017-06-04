@@ -46,7 +46,7 @@ var Dutch = "Ik hou van eten, vooral lekker eten. Mijn favoriete eten is sushi. 
 ```
   * Allow the language added to be displayed in the menu by copying the following code and placing it in [this list] alphabetically below line 127.
 ```
-			"swedish"
+			"swedish",
 ```
   * Add the text you added and its translation to the [README](https://github.com/3raxton/ForeignIpsum#writers--supported-languages) along with your name and the link to a social profile if you prefer. 
     * Please follow the same formatting as previous languages. 
