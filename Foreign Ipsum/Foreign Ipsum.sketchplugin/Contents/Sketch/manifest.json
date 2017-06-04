@@ -115,7 +115,13 @@
 		"script": "Turkish.js",
 		"handler": "onRun",
 		"shortcut": "alt command shift t"
-	}],
+	}, {
+		"name": "Welsh",
+		"identifier": "welsh",
+		"script": "Welsh.js",
+		"handler": "onRun",
+		"shortcut": "alt command shift w"
+	},],
 	"menu": {
 		"title": "🗺 Foreign Ipsum",
 		"items": [
@@ -129,8 +135,9 @@
 			"norwegian",
 			"portuguese",
 			"spanish",
-			"swedish",
+			"swedish"
 			"turkish"
+			"welsh"
 		]
 	}
 }
