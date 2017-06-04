@@ -1,6 +1,6 @@
 If you would like to add your own language to Foreign Ipsum follow the instructions below to do so easily. 
 
-Go to the [Sketch contents folder](https://github.com/3raxton/ForeignIpsum/tree/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch) .
+Go to the [Sketch contents folder](https://github.com/3raxton/ForeignIpsum/tree/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch)
   * If the language you are adding already exists follow follow the steps below.
   * If the language you are adding does not already exist [these](https://github.com/3raxton/ForeignIpsum/blob/master/Contributing.md#for-a-language-that-does-not-already-exist) steps
 
@@ -17,7 +17,7 @@ Go to the [Sketch contents folder](https://github.com/3raxton/ForeignIpsum/tree/
 # For a language that does not already exist
  * Choose one of the languages in [this list](https://github.com/3raxton/ForeignIpsum/tree/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch)
   * Copy all of the code and create a new file with the name of the language as the file name.
-    * Please put the file within [this](https://github.com/3raxton/ForeignIpsum/tree/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch) folder
+    * Please put the file within [this folder](https://github.com/3raxton/ForeignIpsum/tree/master/Foreign%20Ipsum/Foreign%20Ipsum.sketchplugin/Contents/Sketch)
   * Change the language name (the word following var) that you copied (for this example, Dutch) in the first line to the language you are adding.
 ```
 var Dutch = "Ik hou van eten, vooral lekker eten. Mijn favoriete eten is sushi. Ik hou ook van vakantie.";
