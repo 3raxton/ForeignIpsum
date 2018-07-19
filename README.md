@@ -1,3 +1,13 @@
+# As of July 19, 2018 updates are being made!
+
+## Changes to come include:
+* A new user friendly UI
+* Emoji flagss for supported languages
+* Removal of keyboard shortcuts
+* A fresh README
+
+## If there are any ideas for Foreign Ipsum that you want to share please open an issue with your idea!
+
 # 🗺 Foreign Ipsum
 [![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.braxtonhuff.ForeignIpsum/version.svg)](https://api.sketchpacks.com/v1/plugins/com.braxtonhuff.ForeignIpsum/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.braxtonhuff.ForeignIpsum/compatibility.svg)](https://sketchpacks.com/3raxton/ForeignIpsum)
 
