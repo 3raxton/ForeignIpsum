@@ -5,7 +5,7 @@
 	"version": "1.2.2",
 	"compatibleVersion": 3,
 	"bundleVersion": 1,
-    "icon" : "https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/129/world-map_1f5fa.png",
+    "icon" : "https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/images/map.png",
 	"author": "Braxton Huff",
 	"authorEmail": "braxtonhuff.us@gmail.com",
 	"url": "https://braxtonhuff.com",
