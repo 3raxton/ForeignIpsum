@@ -45,7 +45,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.amazonaws.com
 
 My family is extended across the globe. A major inspiration for Foreign Ipsum is my friends and family all over the world. I wanted to make a plugin which incorporated the languages they spoke so I sent them messages asking for random texts in the languages they knew. With their replies, Foreign Ipsum's content is what they came back with.
 <p align="center">
-<img src="https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/images/Fam.png" width="680" height="201">
+<img src="https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/images/Fam.png" width="842" height="307">
 </p>
 
 ## Releases & Updates
