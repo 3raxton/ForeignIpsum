@@ -1,14 +1,14 @@
 {
 	"name": "🗺 Foreign Ipsum",
 	"short-description": "Generate text for your mockups in multiple languages",
-	"description": "Generate text for your mockups that has nothing to do with anything in a multitude of languages",
+	"description": "Generate text for your mockups in multiple languages",
 	"version": "2.0",
 	"compatibleVersion": 3,
 	"bundleVersion": 2,
 	"author": "Braxton Huff",
-	"authorEmail": "braxton@braxtonhuff.com",
-	"url": "http://braxtonhuff.com",
-	"twitter": "http://twitter.com/3raxton",
+	"authorEmail": "braxtonhuff.us@gmail.com",
+	"url": "https://braxtonhuff.com",
+	"twitter": "https://twitter.com/3raxton",
 	"appcast": "https://api.sketchpacks.com/v1/plugins/com.braxtonhuff.ForeignIpsum/appcast",
 
 
@@ -23,16 +23,14 @@
 
 	"license": {
 		"type": "MIT",
-		"url": "https://github.com/3raxton/ForeignIpsum/blob/master/License.md"
+		"url": "https://3raxton.github.io/license"
 	},
 
 	"social": [{
         "website": "https://braxtonhuff.com",
+        "patreon": "https://patreon.com/3raxton",
 		"twitter": "http://twitter.com/3raxton",
-		"github": "http://github.com/3raxton",
-		"medium": "https://medium.com/@3raxton",
-		"dribbble": "http://dribbble.com/3raxton",
-		"cash.me": "https://cash.me/3raxton/",
+		"github":  "http://github.com/3raxton",
 	}],
 
 	"categories": [
