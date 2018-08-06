@@ -1,10 +1,10 @@
 # As of July 19, 2018 updates are being made!
 
 ## Changes to come include:
-* A new user friendly UI
-* Emoji flags for supported languages
-* Removal of keyboard shortcuts
-* A fresh README
+* A new user friendly UI 
+* Emoji flags for supported languages ✅
+* Removal of keyboard shortcuts ✅
+* A fresh README ✅
 
 ## If there are any ideas for Foreign Ipsum that you want to share please open an issue with your idea!
 
