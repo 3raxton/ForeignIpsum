@@ -62,7 +62,7 @@
 		"script": "French.js",
 		"handler": "onRun",
 	}, {
-		"name": "Galician 🇪🇸",
+		"name": "Galician 🏴󠁥󠁳󠁧󠁡󠁿",
 		"identifier": "galician",
 		"script": "Galician.js",
 		"handler": "onRun",
