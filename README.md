@@ -13,11 +13,11 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.amazonaws.com
 <h1 align="center">Foreign Ipsum
 <p align='center'>
 <br>
-    <a href="https://sketchpacks.com/3raxton/ForeignIpsum/install">
+    <a href="https://sketchpacks.com/3raxton/ForeignIpsum/install" target = _blank>
   <img width="160" height="41" src="http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png">
 </a>
 &nbsp;
-<a href="http://bit.ly/SketchRunnerWebsite">
+<a href="http://bit.ly/SketchRunnerWebsite" target = _blank>
   <img width="160" height="41" src="http://bit.ly/RunnerBadgeBlue">
 </a>
 </p>
@@ -45,7 +45,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.amazonaws.com
 
 My family is extended across the globe. A major inspiration for Foreign Ipsum is my friends and family all over the world. I wanted to make a plugin which incorporated the languages they spoke so I sent them messages asking for random texts in the languages they knew. With their replies, Foreign Ipsum's content is what they came back with.
 <p align="center">
-<img src="https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/images/Fam.png" width="842" height="307">
+<img src="https://raw.githubusercontent.com/3raxton/ForeignIpsum/master/images/Fam.png" target = _blank width="842" height="307">
 </p>
 
 ## Releases & Updates
