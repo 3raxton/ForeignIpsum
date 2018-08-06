@@ -3,7 +3,11 @@
 	"short-description": "Generate text for your mockups in multiple languages",
 	"description": "Generate text for your mockups in multiple languages",
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"version": "1.3.0",
+=======
+	"version": "1.2.2",
+>>>>>>> parent of 05db1c4... Hopefully this works
 =======
 	"version": "1.2.2",
 >>>>>>> parent of 05db1c4... Hopefully this works
