@@ -8,16 +8,16 @@
 
 ## If there are any ideas for Foreign Ipsum that you want to share please open an issue with your idea!
 
-<p align="center"><a href="https://3raxton.github.io/ForeignIpsum"
+<p align="center"><a href="https://github.com/3raxton/ForeignIpsum/"
 target="_blank"><br><img width="100" src="https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/129/world-map_1f5fa.png"></a></p>
 <h1 align="center">Foreign Ipsum
 <p align='center'>
 <br>
-    <a href="https://sketchpacks.com/3raxton/ForeignIpsum/install" target = _blank>
+    <a href="https://sketchpacks.com/3raxton/ForeignIpsum/install">
   <img width="160" height="41" src="http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png">
 </a>
 &nbsp;
-<a href="http://bit.ly/SketchRunnerWebsite" target = _blank>
+<a href="http://bit.ly/SketchRunnerWebsite">
   <img width="160" height="41" src="http://bit.ly/RunnerBadgeBlue">
 </a>
 </p>
