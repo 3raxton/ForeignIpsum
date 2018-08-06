@@ -2,7 +2,11 @@
 	"name": "🗺 Foreign Ipsum",
 	"short-description": "Generate text for your mockups in multiple languages",
 	"description": "Generate text for your mockups in multiple languages",
+<<<<<<< HEAD
 	"version": "1.3.0",
+=======
+	"version": "1.2.2",
+>>>>>>> parent of 05db1c4... Hopefully this works
 	"compatibleVersion": 3,
 	"bundleVersion": 1,
     "icon" : "https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/129/world-map_1f5fa.png",
@@ -43,15 +47,9 @@
 
 
 	"commands": [{
-		"name": "Updates are coming!",
-		"identifier": "Updates are coming!",
-		"script": "",
-		"handler": "",
-	}, 
-        {
 		"name": "Danish 🇩🇰",
 		"identifier": "danish",
-		"script": "Danisg.js",
+		"script": "Danish.js",
 		"handler": "onRun",
 	}, {
 		"name": "Dutch 🇳🇱",
@@ -117,15 +115,6 @@
 	"menu": {
 		"title": "🗺 Foreign Ipsum",
 		"items": [
-        {
-        "title": "Updates are coming! Hover over me to see what is coming.",
-        "items": [
-            
-            "A new & friendly UI",
-            "Flag emojis for menu options ✅"
-            "Removal of keyboard shortcuts ✅"
-        ]
-      }
 			"danish",
 			"dutch",
 			"english",
