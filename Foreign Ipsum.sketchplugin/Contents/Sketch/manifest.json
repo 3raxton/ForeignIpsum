@@ -2,7 +2,7 @@
 	"name": "🗺 Foreign Ipsum",
 	"short-description": "Generate text for your mockups in multiple languages",
 	"description": "Generate text for your mockups in multiple languages",
-	"version": "1.2.2",
+	"version": "1.2.21",
 	"compatibleVersion": 3,
 	"bundleVersion": 1,
     "icon" : "https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/129/world-map_1f5fa.png",
@@ -43,9 +43,15 @@
 
 
 	"commands": [{
+		"name": "Updates are coming!",
+		"identifier": "Updates are coming!",
+		"script": "",
+		"handler": "",
+	}, 
+        {
 		"name": "Danish 🇩🇰",
 		"identifier": "danish",
-		"script": "Danish.js",
+		"script": "Danisg.js",
 		"handler": "onRun",
 	}, {
 		"name": "Dutch 🇳🇱",
@@ -111,6 +117,15 @@
 	"menu": {
 		"title": "🗺 Foreign Ipsum",
 		"items": [
+        {
+        "title": "Updates are coming! Hover over me to see what is coming.",
+        "items": [
+            
+            "A new & friendly UI",
+            "Flag emojis for menu options ✅"
+            "Removal of keyboard shortcuts ✅"
+        ]
+      }
 			"danish",
 			"dutch",
 			"english",
