@@ -2,9 +2,9 @@
 	"name": "🗺 Foreign Ipsum",
 	"short-description": "Generate text for your mockups in multiple languages",
 	"description": "Generate text for your mockups that has nothing to do with anything in a multitude of languages",
-	"version": "1.0.2",
+	"version": "2.0",
 	"compatibleVersion": 3,
-	"bundleVersion": 1,
+	"bundleVersion": 2,
 	"author": "Braxton Huff",
 	"authorEmail": "braxton@braxtonhuff.com",
 	"url": "http://braxtonhuff.com",
@@ -27,12 +27,12 @@
 	},
 
 	"social": [{
+        "website": "https://braxtonhuff.com",
 		"twitter": "http://twitter.com/3raxton",
 		"github": "http://github.com/3raxton",
 		"medium": "https://medium.com/@3raxton",
 		"dribbble": "http://dribbble.com/3raxton",
 		"cash.me": "https://cash.me/3raxton/",
-		"paypal": "https://www.paypal.me/BraxtonHuff"
 	}],
 
 	"categories": [
@@ -40,87 +40,74 @@
 	],
 
 	"homepage": "http://github.com/3raxton/ForeignIpsum",
-	"identifier": "com.braxtonhuff.ForeignIpsum",
+	"identifier": "com.braxtonhuff.foreignipsum",
 
 
 	"commands": [{
-		"name": "Danish",
+		"name": "Danish 🇩🇰",
 		"identifier": "danish",
 		"script": "Danish.js",
 		"handler": "onRun",
-		"shortcut": "command shift d"
 	}, {
-		"name": "Dutch",
+		"name": "Dutch 🇳🇱",
 		"identifier": "dutch",
 		"script": "Dutch.js",
 		"handler": "onRun",
-		"shortcut": "ctrl shift d"
 	}, {
-		"name": "English",
+		"name": "English 🇬🇧/🇺🇸",
 		"identifier": "english",
 		"script": "English.js",
 		"handler": "onRun",
-		"shortcut": "alt command shift e"
 	}, {
-		"name": "French",
+		"name": "French 🇫🇷",
 		"identifier": "french",
 		"script": "French.js",
 		"handler": "onRun",
-		"shortcut": "command shift f"
 	}, {
-		"name": "Galician",
+		"name": "Galician 🇪🇸",
 		"identifier": "galician",
 		"script": "Galician.js",
 		"handler": "onRun",
-		"shortcut": "ctrl command shift g"
 	}, {
-		"name": "German",
+		"name": "German 🇩🇪",
 		"identifier": "german",
 		"script": "German.js",
 		"handler": "onRun",
-		"shortcut": "alt command shift g"
 	}, {
-		"name": "Italian",
+		"name": "Italian 🇮🇹",
 		"identifier": "italian",
 		"script": "Italian.js",
 		"handler": "onRun",
-		"shortcut": "alt command shift i"
 	}, {
-		"name": "Norwegian",
+		"name": "Norwegian 🇳🇴",
 		"identifier": "norwegian",
 		"script": "Norwegian.js",
 		"handler": "onRun",
-		"shortcut": "alt command shift n"
 	}, {
-		"name": "Portuguese",
+		"name": "Portuguese 🇧🇷",
 		"identifier": "portuguese",
 		"script": "Portuguese.js",
 		"handler": "onRun",
-		"shortcut": "alt command shift p"
 	}, {
-		"name": "Spanish",
+		"name": "Spanish 🇪🇸",
 		"identifier": "spanish",
 		"script": "Spanish.js",
 		"handler": "onRun",
-		"shortcut": "alt shift ctrl s"
 	}, {
-		"name": "Swedish",
+		"name": "Swedish 🇸🇪",
 		"identifier": "swedish",
 		"script": "Swedish.js",
 		"handler": "onRun",
-		"shortcut": "alt command ctrl shift s"
 	}, {
-		"name": "Turkish",
+		"name": "Turkish 🇹🇷",
 		"identifier": "turkish",
 		"script": "Turkish.js",
 		"handler": "onRun",
-		"shortcut": "alt command shift t"
 	}, {
-		"name": "Welsh",
+		"name": "Welsh󠁿 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
 		"identifier": "welsh",
 		"script": "Welsh.js",
 		"handler": "onRun",
-		"shortcut": "alt command shift w"
 	},],
 	"menu": {
 		"title": "🗺 Foreign Ipsum",
