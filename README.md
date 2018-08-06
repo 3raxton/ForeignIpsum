@@ -39,7 +39,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.amazonaws.com
 - 🌍 Inspired by friends and family from around the world
 - 💬 Based on languages spoken globally
 - 🎉 Open source
-- 🌊 If you like Foreign Ipsum please consider <a href="https://www.patreon.com/3raxton"> supporting me on Patreon</a>
+- 🌊 If you like Foreign Ipsum please consider <a href="https://www.patreon.com/3raxton" target="_blank"> supporting me on Patreon</a>
 
 ## About
 
