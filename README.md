@@ -10,20 +10,6 @@
 
 <p align="center"><a href="https://github.com/3raxton/ForeignIpsum/"
 target="_blank"><br><img width="100" src="https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/129/world-map_1f5fa.png"></a></p>
-<script>
-    (function(d, h, m){
-        var js, fjs = d.getElementsByTagName(h)[0];
-        if (d.getElementById(m)){return;}
-        js = d.createElement(h); js.id = m;
-        js.onload = function(){
-            window.makerWidgetComInit({
-            position: "left",          
-            widget: "vifjsc3cwnfqdzbt-czsyj6gvuwyfzqm9-tgpucgc5lbhxjjby"                
-        })};
-        js.src = "https://makerwidget.com/js/embed.js";
-        fjs.parentNode.insertBefore(js, fjs)
-    }(document, "script", "dhm"))
-</script>
 <h1 align="center">Foreign Ipsum
 <p align='center'>
 <br>
