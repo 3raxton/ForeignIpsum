@@ -41,6 +41,17 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.amazonaws.com
 - 🎉 Open source
 - 🌊 If you like Foreign Ipsum please consider <a href="https://www.patreon.com/3raxton" target="_blank"> supporting me on Patreon</a>
 
+## How to use Foreign Ipsum
+
+1. Create a text layer
+2. Leave the exit state
+3. Choose the layer in the side panel or by clicking on it
+4. Go to the Plugin Menu
+5. Choose Foreign Ipsum
+6. Select the language you want to fill the layer with and click on it
+7. You're done 🎉
+
+
 ## About
 
 My family is extended across the globe. A major inspiration for Foreign Ipsum is my friends and family all over the world. I wanted to make a plugin which incorporated the languages they spoke so I sent them messages asking for random texts in the languages they knew. With their replies, Foreign Ipsum's content is what they came back with.
